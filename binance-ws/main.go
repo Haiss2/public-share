@@ -59,7 +59,8 @@ func main() {
 		params[id] = toSubscription(s)
 	}
 
-	ctx, cancel := context.WithCancel(context.Background())
+	ctx, cancel := context.WithTimeout(context.Background(), *gatherDataDuration)
+	defer cancel()
 
 	wg := sync.WaitGroup{}
 	wg.Add(1)
@@ -74,10 +75,8 @@ func main() {
 			handleConnection(ctx, []string{toSubscription(s)}, s)
 		}(s)
 	}
-	time.Sleep(*gatherDataDuration)
-	cancel()
 
-	// wait for parse and saving data
+	// wait for gathering!
 	wg.Wait()
 }
 
