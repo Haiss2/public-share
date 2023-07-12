@@ -11,6 +11,19 @@ type WsHandler func(message []byte)
 
 type ErrHandler func(err error)
 
+type BookTicker struct {
+	Event           string `json:"e,omitempty"`
+	UpdateID        int64  `json:"u"`
+	Time            int64  `json:"E,omitempty"`
+	TransactionTime int64  `json:"T,omitempty"`
+	Symbol          string `json:"s"`
+	BestBidPrice    string `json:"b"`
+	BestBidQty      string `json:"B"`
+	BestAskPrice    string `json:"a"`
+	BestAskQty      string `json:"A"`
+	ActualTimeUs    int64  `json:"us"`
+}
+
 var WsServe = func(params []string, h WsHandler, e ErrHandler) (doneC, stopC chan struct{}, err error) {
 	Dialer := websocket.Dialer{
 		Proxy:            http.ProxyFromEnvironment,
