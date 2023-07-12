@@ -1,7 +1,6 @@
 package main
 
 import (
-	"encoding/json"
 	"net/http"
 	"time"
 
@@ -12,48 +11,25 @@ type WsHandler func(message []byte)
 
 type ErrHandler func(err error)
 
-type WsBookTickerEvent struct {
-	Event           string `json:"e"`
-	UpdateID        int64  `json:"u"`
-	Time            int64  `json:"E"`
-	TransactionTime int64  `json:"T"`
-	Symbol          string `json:"s"`
-	BestBidPrice    string `json:"b"`
-	BestBidQty      string `json:"B"`
-	BestAskPrice    string `json:"a"`
-	BestAskQty      string `json:"A"`
-	ActualTimeUs    int64
-}
-
-type WsBookTickerHandler func(event *WsBookTickerEvent)
-
-func handleBookTickerFromRaw(h WsBookTickerHandler, e ErrHandler) WsHandler {
-	return func(message []byte) {
-		event := new(WsBookTickerEvent)
-		err := json.Unmarshal(message, &event)
-		if err != nil {
-			e(err)
-			return
-		}
-		h(event)
-	}
-}
-
-const binanceFutureWsEndpoint = "wss://fstream.binance.com/ws"
-
-var WsServe = func(params []string, h WsBookTickerHandler, e ErrHandler) (doneC, stopC chan struct{}, err error) {
+var WsServe = func(params []string, h WsHandler, e ErrHandler) (doneC, stopC chan struct{}, err error) {
 	Dialer := websocket.Dialer{
 		Proxy:            http.ProxyFromEnvironment,
 		HandshakeTimeout: 45 * time.Second,
 		// EnableCompression: false,
 	}
 
-	conn, _, err := Dialer.Dial(binanceFutureWsEndpoint, nil)
+	L.Infow("Start ws serve", "symbols", params)
+
+	conn, _, err := Dialer.Dial(*wsEndpoint, nil)
 	if err != nil {
 		return nil, nil, err
 	}
 	conn.SetReadLimit(655350)
-	conn.WriteJSON(newMsg(params))
+	err = conn.WriteJSON(newMsg(params))
+	if err != nil {
+		return nil, nil, err
+	}
+
 	doneC = make(chan struct{})
 	stopC = make(chan struct{})
 	go func() {
@@ -82,7 +58,7 @@ var WsServe = func(params []string, h WsBookTickerHandler, e ErrHandler) (doneC,
 				}
 				return
 			}
-			handleBookTickerFromRaw(h, e)(message)
+			h(message)
 		}
 	}()
 	return

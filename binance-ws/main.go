@@ -1,15 +1,21 @@
 package main
 
 import (
-	"sort"
+	"encoding/json"
+	"flag"
+	"fmt"
 	"time"
+
+	"go.uber.org/zap"
 )
 
-func main() {
-	multiSMap := make(map[int64]*WsBookTickerEvent)
-	singleSMap := make(map[int64]*WsBookTickerEvent)
-
-	params := []string{
+var (
+	debug              = flag.Bool("debug", true, "Enable debug logs")
+	wsEndpoint         = flag.String("websocket", "wss://fstream.binance.com/ws", "Websocket API endpoint")
+	gatherDataDuration = flag.Duration("gather-data-duration", time.Hour, "Gather data duration")
+	storagePath        = flag.String("storage-path", "data/", "Path to storage output file")
+	L                  *zap.SugaredLogger
+	params             = []string{
 		"btcusdt@bookTicker",
 		"ethusdt@bookTicker",
 		"bnbusdt@bookTicker",
@@ -21,82 +27,42 @@ func main() {
 		"avaxusdt@bookTicker",
 		"solusdt@bookTicker",
 	}
-	handler1 := func(event *WsBookTickerEvent) {
-		if event.Symbol == "SOLUSDT" {
-			event.ActualTimeUs = time.Now().UnixMicro()
-			multiSMap[event.UpdateID] = event
-		}
+)
+
+type Event struct {
+	Data   []byte
+	TimeUs int64
+}
+
+func main() {
+	flag.Parse()
+	L = setupLogger(*debug)
+	L.Infow("Start testing", "symbols", params, "wsEndpoint", wsEndpoint,
+		"gatherDataDuration", gatherDataDuration, "storagePath", storagePath)
+
+	singleSymbolData := make([]Event, 0)
+	multiSymbolData := make([]Event, 0)
+
+	handlerMulti := func(data []byte) {
+		multiSymbolData = append(multiSymbolData, Event{json.RawMessage(data), time.Now().UnixMicro()})
+	}
+	handlerSingle := func(data []byte) {
+		singleSymbolData = append(singleSymbolData, Event{json.RawMessage(data), time.Now().UnixMicro()})
 	}
 
-	handler2 := func(event *WsBookTickerEvent) {
-		event.ActualTimeUs = time.Now().UnixMicro()
-		singleSMap[event.UpdateID] = event
-	}
 	errH := func(e error) {
 		L.Errorw("Received err", "err", e)
 	}
 
-	go WsServe(params, handler1, errH)
-	WsServe([]string{"solusdt@bookTicker"}, handler2, errH)
-
-	time.Sleep(60 * time.Second)
-
-	// Compare result
-	L.Infow("Multi symbols test event length", "len", len(multiSMap))
-	L.Infow("Single symbol test event length", "len", len(singleSMap))
-
-	intersectionNum := 0
-	multiFasterArr := make([]int64, 0)
-	singleFasterArr := make([]int64, 0)
-
-	var (
-		maxMSDiff, maxMSID int64
-		maxSMDiff, maxSMID int64
-	)
-	for updateID, mEvent := range multiSMap {
-		if sEvent, ok := singleSMap[updateID]; ok {
-			intersectionNum++
-			if mEvent.ActualTimeUs > sEvent.ActualTimeUs {
-				diff := mEvent.ActualTimeUs - sEvent.ActualTimeUs
-				if diff > maxMSDiff {
-					maxMSDiff = diff
-					maxMSID = updateID
-				}
-				multiFasterArr = append(multiFasterArr, diff)
-			} else {
-				diff := sEvent.ActualTimeUs - mEvent.ActualTimeUs
-				if diff > maxSMDiff {
-
-					maxSMDiff = diff
-					maxSMID = updateID
-				}
-				singleFasterArr = append(singleFasterArr, diff)
-			}
-		}
+	go WsServe(params, handlerMulti, errH)
+	for _, p := range params {
+		go WsServe([]string{p}, handlerSingle, errH)
 	}
-	L.Infow("Intersection count!", "count", intersectionNum)
 
-	// statistic max diff
-	sort.Slice(multiFasterArr, func(i, j int) bool {
-		return multiFasterArr[i] < multiFasterArr[j]
-	})
-	sort.Slice(singleFasterArr, func(i, j int) bool {
-		return singleFasterArr[i] < singleFasterArr[j]
-	})
+	time.Sleep(*gatherDataDuration)
 
-	L.Infow("Multi faster than single", "count", len(multiFasterArr),
-		"meanUs", Mean(multiFasterArr),
-		"medianUs", multiFasterArr[len(multiFasterArr)/2],
-		"maxUs", multiFasterArr[len(multiFasterArr)-1],
-		"minUs", multiFasterArr[0],
-	)
-	L.Infow("Single faster than multi ", "count", len(singleFasterArr),
-		"meanUs", Mean(singleFasterArr),
-		"medianUs", singleFasterArr[len(singleFasterArr)/2],
-		"maxUs", singleFasterArr[len(singleFasterArr)-1],
-		"minUs", singleFasterArr[0],
-	)
-
-	L.Infow("Biggest diff that multi > single", "multi", multiSMap[maxMSID], "single", singleSMap[maxMSID], "diff", maxMSDiff)
-	L.Infow("Biggest diff that single > multi", "multi", multiSMap[maxSMID], "single", singleSMap[maxSMID], "diff", maxSMDiff)
+	// store data
+	now := time.Now().UnixMilli()
+	saveData(singleSymbolData, fmt.Sprintf("single_%d.json", now))
+	saveData(multiSymbolData, fmt.Sprintf("multi_%d.json", now))
 }

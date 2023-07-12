@@ -1,19 +1,14 @@
 package main
 
 import (
+	"encoding/json"
 	"os"
 
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )
 
-var L = SetupLogger()
-
-const (
-	debug = true
-)
-
-func SetupLogger() *zap.SugaredLogger {
+func setupLogger(debug bool) *zap.SugaredLogger {
 	pConf := zap.NewProductionEncoderConfig()
 	pConf.EncodeTime = zapcore.ISO8601TimeEncoder
 	encoder := zapcore.NewConsoleEncoder(pConf)
@@ -26,14 +21,18 @@ func SetupLogger() *zap.SugaredLogger {
 	return zap.S()
 }
 
-func Mean(a []int64) float64 {
-	if len(a) == 0 {
-		return 0.0
+func saveData(data interface{}, filename string) error {
+	f, err := os.Create(*storagePath + filename)
+	if err != nil {
+		L.Error("Fail to create file", "filename", filename, "error", err)
+		return err
 	}
 
-	sum := float64(0)
-	for _, n := range a {
-		sum += float64(n)
+	err = json.NewEncoder(f).Encode(data)
+	if err != nil {
+		L.Error("Fail to write data to file", "error", err)
+		return err
 	}
-	return sum / float64(len(a))
+
+	return nil
 }
