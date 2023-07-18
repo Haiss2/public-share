@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import matplotlib.pyplot as plt
  
 data_dir = "data/"
 data_list = list(
@@ -31,5 +32,12 @@ def statistic(single, multi):
     print("merged event count:", len(merged))
     print(merged[["single_ts_micro", "multiple_ts_micro", "time_diff_single_multi","time_diff_multi_single"]].describe())
     print("")
+
+    merged.sort_values(by=['time_diff_single_multi'])
+    merged["time_diff_single_multi"].plot.hist(bins=100, alpha=0.5)
+    plt.savefig("plot_img/{}_hist.png".format(single))
+
+    merged.plot(x = 'single_ts_micro', y = 'time_diff_single_multi')
+    plt.savefig("plot_img/{}_time.png".format(single))
 
 main()
