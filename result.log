@@ -1,0 +1,606 @@
+athea@Atheas-MacBook-Pro public-share % python3 pandas/convert.py
+Process future_aaveusdt_1689162633084.json, multiple symbols file corresponding future_multi_1689162633084.json
+single file event count: 27039
+merged event count: 27039
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     2.703900e+04       2.703900e+04            27039.000000            27039.000000
+mean      1.689161e+15       1.689161e+15              186.059248             -186.059248
+std       1.012071e+09       1.012071e+09             6986.221118             6986.221118
+min       1.689159e+15       1.689159e+15          -166891.000000           -86724.000000
+25%       1.689160e+15       1.689160e+15              180.000000             -310.000000
+50%       1.689161e+15       1.689161e+15              246.000000             -246.000000
+75%       1.689162e+15       1.689162e+15              310.000000             -180.000000
+max       1.689163e+15       1.689163e+15            86724.000000           166891.000000
+
+Process future_aaveusdt_1689224304431.json, multiple symbols file corresponding future_multi_1689224304431.json
+single file event count: 29150
+merged event count: 29150
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     2.915000e+04       2.915000e+04            29150.000000            29150.000000
+mean      1.689222e+15       1.689222e+15              108.770017             -108.770017
+std       1.031454e+09       1.031455e+09             5815.754132             5815.754132
+min       1.689221e+15       1.689221e+15           -84488.000000           -84466.000000
+25%       1.689222e+15       1.689222e+15              -35.000000              -98.000000
+50%       1.689222e+15       1.689222e+15               29.000000              -29.000000
+75%       1.689223e+15       1.689223e+15               98.000000               35.000000
+max       1.689224e+15       1.689224e+15            84466.000000            84488.000000
+
+Process future_aaveusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+single file event count: 40215
+merged event count: 40215
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     4.021500e+04       4.021500e+04            40215.000000            40215.000000
+mean      1.689231e+15       1.689231e+15              481.883253             -481.883253
+std       1.025827e+09       1.025827e+09             5081.361788             5081.361788
+min       1.689230e+15       1.689230e+15           -63697.000000           -92905.000000
+25%       1.689230e+15       1.689230e+15               -6.000000             -117.000000
+50%       1.689231e+15       1.689231e+15               43.000000              -43.000000
+75%       1.689232e+15       1.689232e+15              117.000000                6.000000
+max       1.689233e+15       1.689233e+15            92905.000000            63697.000000
+
+Process future_aptusdt_1689162633084.json, multiple symbols file corresponding future_multi_1689162633084.json
+single file event count: 48944
+merged event count: 48944
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     4.894400e+04       4.894400e+04            48944.000000            48944.000000
+mean      1.689161e+15       1.689161e+15              452.798811             -452.798811
+std       9.867863e+08       9.867851e+08            12316.227894            12316.227894
+min       1.689159e+15       1.689159e+15          -156935.000000          -154000.000000
+25%       1.689160e+15       1.689160e+15              128.000000             -257.000000
+50%       1.689161e+15       1.689161e+15              181.000000             -181.000000
+75%       1.689162e+15       1.689162e+15              257.000000             -128.000000
+max       1.689163e+15       1.689163e+15           154000.000000           156935.000000
+
+Process future_aptusdt_1689224304431.json, multiple symbols file corresponding future_multi_1689224304431.json
+single file event count: 54072
+merged event count: 54072
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     5.407200e+04       5.407200e+04            54072.000000            54072.000000
+mean      1.689222e+15       1.689222e+15              196.576676             -196.576676
+std       1.015855e+09       1.015855e+09             8365.715435             8365.715435
+min       1.689221e+15       1.689221e+15           -75054.000000          -176377.000000
+25%       1.689222e+15       1.689222e+15             -204.000000               79.000000
+50%       1.689222e+15       1.689222e+15             -146.000000              146.000000
+75%       1.689223e+15       1.689223e+15              -79.000000              204.000000
+max       1.689224e+15       1.689224e+15           176377.000000            75054.000000
+
+Process future_aptusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+single file event count: 55388
+merged event count: 55388
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     5.538800e+04       5.538800e+04            55388.000000            55388.000000
+mean      1.689231e+15       1.689231e+15              489.084062             -489.084062
+std       1.042919e+09       1.042919e+09             8983.606999             8983.606999
+min       1.689230e+15       1.689230e+15          -175811.000000          -112887.000000
+25%       1.689230e+15       1.689230e+15              237.000000             -377.000000
+50%       1.689231e+15       1.689231e+15              310.000000             -310.000000
+75%       1.689232e+15       1.689232e+15              377.000000             -237.000000
+max       1.689233e+15       1.689233e+15           112887.000000           175811.000000
+
+Process future_arbusdt_1689162633084.json, multiple symbols file corresponding future_multi_1689162633084.json
+single file event count: 33569
+merged event count: 33569
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     3.356900e+04       3.356900e+04            33569.000000            33569.000000
+mean      1.689161e+15       1.689161e+15              168.304060             -168.304060
+std       1.009308e+09       1.009306e+09            14029.957526            14029.957526
+min       1.689159e+15       1.689159e+15          -160169.000000          -156143.000000
+25%       1.689160e+15       1.689160e+15              129.000000             -269.000000
+50%       1.689161e+15       1.689161e+15              192.000000             -192.000000
+75%       1.689162e+15       1.689162e+15              269.000000             -129.000000
+max       1.689163e+15       1.689163e+15           156143.000000           160169.000000
+
+Process future_arbusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+single file event count: 52758
+merged event count: 52758
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     5.275800e+04       5.275800e+04            52758.000000            52758.000000
+mean      1.689231e+15       1.689231e+15              946.206319             -946.206319
+std       1.072189e+09       1.072188e+09            10065.119144            10065.119144
+min       1.689230e+15       1.689230e+15          -177102.000000          -147661.000000
+25%       1.689230e+15       1.689230e+15              -44.000000             -107.000000
+50%       1.689231e+15       1.689231e+15                6.000000               -6.000000
+75%       1.689232e+15       1.689232e+15              107.000000               44.000000
+max       1.689233e+15       1.689233e+15           147661.000000           177102.000000
+
+Process future_avaxusdt_1689162633084.json, multiple symbols file corresponding future_multi_1689162633084.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 25592
+merged event count: 25592
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     2.559200e+04       2.559200e+04            25592.000000            25592.000000
+mean      1.689161e+15       1.689161e+15              596.765122             -596.765122
+std       1.034297e+09       1.034297e+09             8427.680316             8427.680316
+min       1.689159e+15       1.689159e+15          -161852.000000          -187833.000000
+25%       1.689160e+15       1.689160e+15               39.000000             -203.000000
+50%       1.689161e+15       1.689161e+15              104.000000             -104.000000
+75%       1.689162e+15       1.689162e+15              203.000000              -39.000000
+max       1.689163e+15       1.689163e+15           187833.000000           161852.000000
+
+Process future_avaxusdt_1689224304431.json, multiple symbols file corresponding future_multi_1689224304431.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 35383
+merged event count: 35383
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     3.538300e+04       3.538300e+04            35383.000000            35383.000000
+mean      1.689222e+15       1.689222e+15             -736.284233              736.284233
+std       1.036977e+09       1.036977e+09             5303.153294             5303.153294
+min       1.689221e+15       1.689221e+15           -83740.000000           -74849.000000
+25%       1.689221e+15       1.689221e+15              -78.000000              -73.000000
+50%       1.689222e+15       1.689222e+15               11.000000              -11.000000
+75%       1.689223e+15       1.689223e+15               73.000000               78.000000
+max       1.689224e+15       1.689224e+15            74849.000000            83740.000000
+
+Process future_avaxusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 38553
+merged event count: 38553
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     3.855300e+04       3.855300e+04            38553.000000            38553.000000
+mean      1.689231e+15       1.689231e+15              -95.804062               95.804062
+std       1.018590e+09       1.018590e+09             5300.256638             5300.256638
+min       1.689230e+15       1.689230e+15          -104649.000000          -141743.000000
+25%       1.689230e+15       1.689230e+15              -20.000000              -64.000000
+50%       1.689231e+15       1.689231e+15               12.000000              -12.000000
+75%       1.689232e+15       1.689232e+15               64.000000               20.000000
+max       1.689233e+15       1.689233e+15           141743.000000           104649.000000
+
+Process future_bnbusdt_1689162633084.json, multiple symbols file corresponding future_multi_1689162633084.json
+single file event count: 58344
+merged event count: 58344
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     5.834400e+04       5.834400e+04            58344.000000            58344.000000
+mean      1.689161e+15       1.689161e+15             -476.479055              476.479055
+std       1.020793e+09       1.020793e+09             6869.394089             6869.394089
+min       1.689159e+15       1.689159e+15          -166970.000000           -78483.000000
+25%       1.689160e+15       1.689160e+15              120.000000             -239.000000
+50%       1.689161e+15       1.689161e+15              185.000000             -185.000000
+75%       1.689162e+15       1.689162e+15              239.000000             -120.000000
+max       1.689163e+15       1.689163e+15            78483.000000           166970.000000
+
+Process future_bnbusdt_1689224304431.json, multiple symbols file corresponding future_multi_1689224304431.json
+single file event count: 56100
+merged event count: 56100
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     5.610000e+04       5.610000e+04            56100.000000            56100.000000
+mean      1.689222e+15       1.689222e+15             -271.295882              271.295882
+std       1.052391e+09       1.052392e+09             5319.559216             5319.559216
+min       1.689221e+15       1.689221e+15           -83966.000000          -100379.000000
+25%       1.689221e+15       1.689221e+15             -168.000000               22.000000
+50%       1.689222e+15       1.689222e+15              -81.000000               81.000000
+75%       1.689223e+15       1.689223e+15              -22.000000              168.000000
+max       1.689224e+15       1.689224e+15           100379.000000            83966.000000
+
+Process future_bnbusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+single file event count: 69446
+merged event count: 69446
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     6.944600e+04       6.944600e+04            69446.000000            69446.000000
+mean      1.689231e+15       1.689231e+15             1357.182142            -1357.182142
+std       1.066412e+09       1.066412e+09            10388.797782            10388.797782
+min       1.689230e+15       1.689230e+15          -231719.000000          -188040.000000
+25%       1.689230e+15       1.689230e+15              273.000000             -417.000000
+50%       1.689231e+15       1.689231e+15              334.000000             -334.000000
+75%       1.689232e+15       1.689232e+15              417.000000             -273.000000
+max       1.689233e+15       1.689233e+15           188040.000000           231719.000000
+
+Process future_btcusdt_1689162633084.json, multiple symbols file corresponding future_multi_1689162633084.json
+single file event count: 360989
+merged event count: 360989
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     3.609890e+05       3.609890e+05           360989.000000           360989.000000
+mean      1.689161e+15       1.689161e+15              -98.604791               98.604791
+std       9.908125e+08       9.908124e+08             7602.427258             7602.427258
+min       1.689159e+15       1.689159e+15          -165066.000000           -62094.000000
+25%       1.689160e+15       1.689160e+15              232.000000             -429.000000
+50%       1.689161e+15       1.689161e+15              319.000000             -319.000000
+75%       1.689162e+15       1.689162e+15              429.000000             -232.000000
+max       1.689163e+15       1.689163e+15            62094.000000           165066.000000
+
+Process future_btcusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+single file event count: 366650
+merged event count: 366650
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     3.666500e+05       3.666500e+05           366650.000000           366650.000000
+mean      1.689231e+15       1.689231e+15             -154.285561              154.285561
+std       1.030784e+09       1.030784e+09             5458.845931             5458.845931
+min       1.689230e+15       1.689230e+15          -222983.000000           -93436.000000
+25%       1.689231e+15       1.689231e+15                4.000000             -159.000000
+50%       1.689231e+15       1.689231e+15               92.000000              -92.000000
+75%       1.689232e+15       1.689232e+15              159.000000               -4.000000
+max       1.689233e+15       1.689233e+15            93436.000000           222983.000000
+
+Process future_ethusdt_1689162633084.json, multiple symbols file corresponding future_multi_1689162633084.json
+single file event count: 253445
+merged event count: 253445
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     2.534450e+05       2.534450e+05           253445.000000           253445.000000
+mean      1.689161e+15       1.689161e+15             -263.468062              263.468062
+std       1.053086e+09       1.053085e+09             7107.643951             7107.643951
+min       1.689159e+15       1.689159e+15          -157553.000000          -131986.000000
+25%       1.689160e+15       1.689160e+15               54.000000             -203.000000
+50%       1.689161e+15       1.689161e+15              122.000000             -122.000000
+75%       1.689162e+15       1.689162e+15              203.000000              -54.000000
+max       1.689163e+15       1.689163e+15           131986.000000           157553.000000
+
+Process future_ethusdt_1689224304431.json, multiple symbols file corresponding future_multi_1689224304431.json
+single file event count: 332360
+merged event count: 332360
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     3.323600e+05       3.323600e+05           332360.000000           332360.000000
+mean      1.689222e+15       1.689222e+15             -694.602257              694.602257
+std       9.459881e+08       9.459890e+08             5787.987043             5787.987043
+min       1.689221e+15       1.689221e+15           -79884.000000          -110050.000000
+25%       1.689222e+15       1.689222e+15             -204.000000              -79.000000
+50%       1.689222e+15       1.689222e+15                7.000000               -7.000000
+75%       1.689223e+15       1.689223e+15               79.000000              204.000000
+max       1.689224e+15       1.689224e+15           110050.000000            79884.000000
+
+Process future_ethusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+single file event count: 293093
+merged event count: 293093
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     2.930930e+05       2.930930e+05           293093.000000           293093.000000
+mean      1.689231e+15       1.689231e+15             -634.109013              634.109013
+std       1.083264e+09       1.083264e+09             5053.149990             5053.149990
+min       1.689230e+15       1.689230e+15          -224157.000000           -67146.000000
+25%       1.689230e+15       1.689230e+15              -22.000000             -181.000000
+50%       1.689231e+15       1.689231e+15              122.000000             -122.000000
+75%       1.689232e+15       1.689232e+15              181.000000               22.000000
+max       1.689233e+15       1.689233e+15            67146.000000           224157.000000
+
+Process future_imxusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 14208
+merged event count: 14208
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.420800e+04       1.420800e+04            14208.000000            14208.000000
+mean      1.689231e+15       1.689231e+15              176.471495             -176.471495
+std       1.053018e+09       1.053018e+09             7435.106555             7435.106555
+min       1.689230e+15       1.689230e+15          -195915.000000          -104347.000000
+25%       1.689230e+15       1.689230e+15              240.000000             -363.000000
+50%       1.689232e+15       1.689232e+15              303.000000             -303.000000
+75%       1.689232e+15       1.689232e+15              363.000000             -240.000000
+max       1.689233e+15       1.689233e+15           104347.000000           195915.000000
+
+Process future_maticusdt_1689162633084.json, multiple symbols file corresponding future_multi_1689162633084.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 55240
+merged event count: 55240
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     5.524000e+04       5.524000e+04            55240.000000            55240.000000
+mean      1.689161e+15       1.689161e+15              142.571506             -142.571506
+std       9.775143e+08       9.775146e+08             8168.183353             8168.183353
+min       1.689159e+15       1.689159e+15          -158271.000000          -264028.000000
+25%       1.689160e+15       1.689160e+15               10.000000             -138.000000
+50%       1.689161e+15       1.689161e+15               63.000000              -63.000000
+75%       1.689161e+15       1.689161e+15              138.000000              -10.000000
+max       1.689163e+15       1.689163e+15           264028.000000           158271.000000
+
+Process future_maticusdt_1689224304431.json, multiple symbols file corresponding future_multi_1689224304431.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 56588
+merged event count: 56588
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     5.658800e+04       5.658800e+04            56588.000000            56588.000000
+mean      1.689222e+15       1.689222e+15              256.466724             -256.466724
+std       1.053218e+09       1.053218e+09             5132.096736             5132.096736
+min       1.689221e+15       1.689221e+15           -83725.000000          -116006.000000
+25%       1.689221e+15       1.689221e+15               -4.000000             -133.000000
+50%       1.689222e+15       1.689222e+15               57.000000              -57.000000
+75%       1.689223e+15       1.689223e+15              133.000000                4.000000
+max       1.689224e+15       1.689224e+15           116006.000000            83725.000000
+
+Process future_maticusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 73275
+merged event count: 73275
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     7.327500e+04       7.327500e+04            73275.000000            73275.000000
+mean      1.689231e+15       1.689231e+15             -148.895380              148.895380
+std       1.010326e+09       1.010326e+09             4829.891615             4829.891615
+min       1.689230e+15       1.689230e+15          -160531.000000          -130266.000000
+25%       1.689230e+15       1.689230e+15               59.000000             -199.000000
+50%       1.689231e+15       1.689231e+15              137.000000             -137.000000
+75%       1.689232e+15       1.689232e+15              199.000000              -59.000000
+max       1.689233e+15       1.689233e+15           130266.000000           160531.000000
+
+Process future_solusdt_1689162633084.json, multiple symbols file corresponding future_multi_1689162633084.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 137485
+merged event count: 137485
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.374850e+05       1.374850e+05           137485.000000           137485.000000
+mean      1.689161e+15       1.689161e+15              231.019624             -231.019624
+std       9.930512e+08       9.930515e+08             5671.862492             5671.862492
+min       1.689159e+15       1.689159e+15          -159384.000000          -185623.000000
+25%       1.689160e+15       1.689160e+15                6.000000             -105.000000
+50%       1.689161e+15       1.689161e+15               42.000000              -42.000000
+75%       1.689162e+15       1.689162e+15              105.000000               -6.000000
+max       1.689163e+15       1.689163e+15           185623.000000           159384.000000
+
+Process future_solusdt_1689224304431.json, multiple symbols file corresponding future_multi_1689224304431.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 175415
+merged event count: 175415
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.754150e+05       1.754150e+05           175415.000000           175415.000000
+mean      1.689222e+15       1.689222e+15             -440.213482              440.213482
+std       1.003674e+09       1.003674e+09             4180.636419             4180.636419
+min       1.689221e+15       1.689221e+15           -86090.000000           -44648.000000
+25%       1.689221e+15       1.689221e+15               -6.000000             -142.000000
+50%       1.689222e+15       1.689222e+15               92.000000              -92.000000
+75%       1.689223e+15       1.689223e+15              142.000000                6.000000
+max       1.689224e+15       1.689224e+15            44648.000000            86090.000000
+
+Process future_solusdt_1689233143520.json, multiple symbols file corresponding future_multi_1689233143520.json
+/Users/athea/Projects/public-share/pandas/convert.py:26: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.
+  merged = s_df.merge(m_df)
+single file event count: 161216
+merged event count: 161216
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.612160e+05       1.612160e+05           161216.000000           161216.000000
+mean      1.689231e+15       1.689231e+15              375.279333             -375.279333
+std       1.061767e+09       1.061767e+09             5125.386661             5125.386661
+min       1.689230e+15       1.689230e+15          -125556.000000          -119569.000000
+25%       1.689230e+15       1.689230e+15              165.000000             -278.000000
+50%       1.689231e+15       1.689231e+15              204.000000             -204.000000
+75%       1.689232e+15       1.689232e+15              278.000000             -165.000000
+max       1.689233e+15       1.689233e+15           119569.000000           125556.000000
+
+Process spot_aaveusdt_1689238730966.json, multiple symbols file corresponding spot_multi_1689238730966.json
+single file event count: 15378
+merged event count: 15378
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.537800e+04       1.537800e+04            15378.000000            15378.000000
+mean      1.689237e+15       1.689237e+15             -626.780986              626.780986
+std       1.075459e+09       1.075460e+09             2293.768117             2293.768117
+min       1.689235e+15       1.689235e+15           -36017.000000            -5476.000000
+25%       1.689236e+15       1.689236e+15             -537.000000              175.250000
+50%       1.689237e+15       1.689237e+15             -332.000000              332.000000
+75%       1.689238e+15       1.689238e+15             -175.250000              537.000000
+max       1.689239e+15       1.689239e+15             5476.000000            36017.000000
+
+Process spot_aaveusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 12880
+merged event count: 12880
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.288000e+04       1.288000e+04            12880.000000            12880.000000
+mean      1.689246e+15       1.689246e+15             -232.579658              232.579658
+std       1.009957e+09       1.009957e+09              501.625096              501.625096
+min       1.689244e+15       1.689244e+15            -3027.000000           -18326.000000
+25%       1.689245e+15       1.689245e+15             -316.000000              216.000000
+50%       1.689246e+15       1.689246e+15             -266.000000              266.000000
+75%       1.689247e+15       1.689247e+15             -216.000000              316.000000
+max       1.689248e+15       1.689248e+15            18326.000000             3027.000000
+
+Process spot_aptusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 15002
+merged event count: 15002
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.500200e+04       1.500200e+04            15002.000000            15002.000000
+mean      1.689246e+15       1.689246e+15             -228.427876              228.427876
+std       1.037847e+09       1.037847e+09              724.965480              724.965480
+min       1.689244e+15       1.689244e+15           -12887.000000           -17344.000000
+25%       1.689245e+15       1.689245e+15             -343.000000              240.000000
+50%       1.689246e+15       1.689246e+15             -290.000000              290.000000
+75%       1.689247e+15       1.689247e+15             -240.000000              343.000000
+max       1.689248e+15       1.689248e+15            17344.000000            12887.000000
+
+Process spot_arbusdt_1689238730966.json, multiple symbols file corresponding spot_multi_1689238730966.json
+single file event count: 28315
+merged event count: 28315
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     2.831500e+04       2.831500e+04            28315.000000            28315.000000
+mean      1.689237e+15       1.689237e+15             -121.420131              121.420131
+std       1.009183e+09       1.009183e+09              534.954051              534.954051
+min       1.689235e+15       1.689235e+15           -15922.000000           -17842.000000
+25%       1.689236e+15       1.689236e+15             -202.000000               95.000000
+50%       1.689237e+15       1.689237e+15             -151.000000              151.000000
+75%       1.689238e+15       1.689238e+15              -95.000000              202.000000
+max       1.689239e+15       1.689239e+15            17842.000000            15922.000000
+
+Process spot_arbusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 31023
+merged event count: 31023
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     3.102300e+04       3.102300e+04            31023.000000            31023.000000
+mean      1.689246e+15       1.689246e+15             -180.384779              180.384779
+std       1.013338e+09       1.013338e+09             1675.741845             1675.741845
+min       1.689244e+15       1.689244e+15           -41093.000000           -21444.000000
+25%       1.689245e+15       1.689245e+15             -319.000000              -18.000000
+50%       1.689246e+15       1.689246e+15             -139.000000              139.000000
+75%       1.689247e+15       1.689247e+15               18.000000              319.000000
+max       1.689248e+15       1.689248e+15            21444.000000            41093.000000
+
+Process spot_avaxusdt_1689238730966.json, multiple symbols file corresponding spot_multi_1689238730966.json
+single file event count: 10519
+merged event count: 10519
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.051900e+04       1.051900e+04            10519.000000            10519.000000
+mean      1.689237e+15       1.689237e+15             -342.240707              342.240707
+std       1.053147e+09       1.053147e+09              265.531047              265.531047
+min       1.689235e+15       1.689235e+15           -14050.000000            -3871.000000
+25%       1.689236e+15       1.689236e+15             -382.000000              278.000000
+50%       1.689237e+15       1.689237e+15             -323.000000              323.000000
+75%       1.689238e+15       1.689238e+15             -278.000000              382.000000
+max       1.689239e+15       1.689239e+15             3871.000000            14050.000000
+
+Process spot_avaxusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 14405
+merged event count: 14405
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.440500e+04       1.440500e+04            14405.000000            14405.000000
+mean      1.689246e+15       1.689246e+15               38.484485              -38.484485
+std       1.000076e+09       1.000076e+09             2132.139601             2132.139601
+min       1.689244e+15       1.689244e+15           -47057.000000           -30227.000000
+25%       1.689245e+15       1.689245e+15              -87.000000             -257.000000
+50%       1.689246e+15       1.689246e+15               66.000000              -66.000000
+75%       1.689247e+15       1.689247e+15              257.000000               87.000000
+max       1.689248e+15       1.689248e+15            30227.000000            47057.000000
+
+Process spot_bnbusdt_1689238730966.json, multiple symbols file corresponding spot_multi_1689238730966.json
+single file event count: 21325
+merged event count: 21325
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     2.132500e+04       2.132500e+04            21325.000000            21325.000000
+mean      1.689237e+15       1.689237e+15             -628.915451              628.915451
+std       1.041152e+09       1.041152e+09             2235.126945             2235.126945
+min       1.689235e+15       1.689235e+15           -79414.000000            -9002.000000
+25%       1.689236e+15       1.689236e+15             -565.000000              192.000000
+50%       1.689237e+15       1.689237e+15             -341.000000              341.000000
+75%       1.689238e+15       1.689238e+15             -192.000000              565.000000
+max       1.689239e+15       1.689239e+15             9002.000000            79414.000000
+
+Process spot_bnbusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 16225
+merged event count: 16225
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.622500e+04       1.622500e+04            16225.000000            16225.000000
+mean      1.689246e+15       1.689246e+15              -34.568629               34.568629
+std       1.033707e+09       1.033707e+09              764.613785              764.613785
+min       1.689244e+15       1.689244e+15            -5907.000000           -15044.000000
+25%       1.689245e+15       1.689245e+15             -171.000000               75.000000
+50%       1.689246e+15       1.689246e+15             -126.000000              126.000000
+75%       1.689247e+15       1.689247e+15              -75.000000              171.000000
+max       1.689248e+15       1.689248e+15            15044.000000             5907.000000
+
+Process spot_btcusdt_1689238730966.json, multiple symbols file corresponding spot_multi_1689238730966.json
+single file event count: 66882
+merged event count: 66882
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     6.688200e+04       6.688200e+04            66882.000000            66882.000000
+mean      1.689237e+15       1.689237e+15             -407.753297              407.753297
+std       9.817015e+08       9.817017e+08             2686.669217             2686.669217
+min       1.689235e+15       1.689235e+15           -36689.000000           -62787.000000
+25%       1.689236e+15       1.689236e+15             -238.000000             -142.000000
+50%       1.689237e+15       1.689237e+15               -2.000000                2.000000
+75%       1.689238e+15       1.689238e+15              142.000000              238.000000
+max       1.689239e+15       1.689239e+15            62787.000000            36689.000000
+
+Process spot_btcusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 109624
+merged event count: 109623
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.096230e+05       1.096230e+05           109623.000000           109623.000000
+mean      1.689246e+15       1.689246e+15             -419.806318              419.806318
+std       9.574585e+08       9.574584e+08             1503.934044             1503.934044
+min       1.689244e+15       1.689244e+15           -51568.000000           -13368.000000
+25%       1.689245e+15       1.689245e+15             -510.000000               71.000000
+50%       1.689245e+15       1.689245e+15             -237.000000              237.000000
+75%       1.689246e+15       1.689246e+15              -71.000000              510.000000
+max       1.689248e+15       1.689248e+15            13368.000000            51568.000000
+
+Process spot_ethusdt_1689238730966.json, multiple symbols file corresponding spot_multi_1689238730966.json
+single file event count: 45079
+merged event count: 45079
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     4.507900e+04       4.507900e+04            45079.000000            45079.000000
+mean      1.689237e+15       1.689237e+15             -115.674549              115.674549
+std       1.008754e+09       1.008754e+09              825.516772              825.516772
+min       1.689235e+15       1.689235e+15           -22734.000000           -19715.000000
+25%       1.689236e+15       1.689236e+15             -223.000000              106.000000
+50%       1.689237e+15       1.689237e+15             -163.000000              163.000000
+75%       1.689238e+15       1.689238e+15             -106.000000              223.000000
+max       1.689239e+15       1.689239e+15            19715.000000            22734.000000
+
+Process spot_ethusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 63290
+merged event count: 63288
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     6.328800e+04       6.328800e+04            63288.000000            63288.000000
+mean      1.689246e+15       1.689246e+15              267.282992             -267.282992
+std       1.026473e+09       1.026473e+09             1371.681910             1371.681910
+min       1.689244e+15       1.689244e+15           -12538.000000           -26832.000000
+25%       1.689245e+15       1.689245e+15              -20.000000              -64.000000
+50%       1.689246e+15       1.689246e+15                9.000000               -9.000000
+75%       1.689247e+15       1.689247e+15               64.000000               20.000000
+max       1.689248e+15       1.689248e+15            26832.000000            12538.000000
+
+Process spot_imxusdt_1689238730966.json, multiple symbols file corresponding spot_multi_1689238730966.json
+single file event count: 7447
+merged event count: 7447
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     7.447000e+03       7.447000e+03             7447.000000             7447.000000
+mean      1.689237e+15       1.689237e+15              -77.757352               77.757352
+std       1.089006e+09       1.089006e+09              199.099427              199.099427
+min       1.689235e+15       1.689235e+15            -4474.000000            -6495.000000
+25%       1.689236e+15       1.689236e+15             -130.000000               25.000000
+50%       1.689237e+15       1.689237e+15              -77.000000               77.000000
+75%       1.689238e+15       1.689238e+15              -25.000000              130.000000
+max       1.689239e+15       1.689239e+15             6495.000000             4474.000000
+
+Process spot_imxusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 7857
+merged event count: 7857
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     7.857000e+03       7.857000e+03             7857.000000             7857.000000
+mean      1.689246e+15       1.689246e+15              -63.281787               63.281787
+std       9.929939e+08       9.929938e+08             1729.740385             1729.740385
+min       1.689244e+15       1.689244e+15           -42425.000000           -10113.000000
+25%       1.689245e+15       1.689245e+15             -132.000000             -221.000000
+50%       1.689246e+15       1.689246e+15               43.000000              -43.000000
+75%       1.689247e+15       1.689247e+15              221.000000              132.000000
+max       1.689248e+15       1.689248e+15            10113.000000            42425.000000
+
+Process spot_maticusdt_1689238730966.json, multiple symbols file corresponding spot_multi_1689238730966.json
+single file event count: 22334
+merged event count: 22334
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     2.233400e+04       2.233400e+04            22334.000000            22334.000000
+mean      1.689237e+15       1.689237e+15             -169.642115              169.642115
+std       1.076395e+09       1.076395e+09              556.681197              556.681197
+min       1.689235e+15       1.689235e+15           -14136.000000           -14350.000000
+25%       1.689236e+15       1.689236e+15             -256.000000              158.000000
+50%       1.689237e+15       1.689237e+15             -208.000000              208.000000
+75%       1.689238e+15       1.689238e+15             -158.000000              256.000000
+max       1.689239e+15       1.689239e+15            14350.000000            14136.000000
+
+Process spot_maticusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 103702
+merged event count: 103702
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     1.037020e+05       1.037020e+05           103702.000000           103702.000000
+mean      1.689246e+15       1.689246e+15             -278.128840              278.128840
+std       1.010658e+09       1.010658e+09              490.347741              490.347741
+min       1.689244e+15       1.689244e+15           -12242.000000           -20645.000000
+25%       1.689245e+15       1.689245e+15             -352.000000              258.000000
+50%       1.689246e+15       1.689246e+15             -303.000000              303.000000
+75%       1.689247e+15       1.689247e+15             -258.000000              352.000000
+max       1.689248e+15       1.689248e+15            20645.000000            12242.000000
+
+Process spot_solusdt_1689238730966.json, multiple symbols file corresponding spot_multi_1689238730966.json
+single file event count: 26178
+merged event count: 26178
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     2.617800e+04       2.617800e+04            26178.000000            26178.000000
+mean      1.689237e+15       1.689237e+15             -200.213805              200.213805
+std       9.852871e+08       9.852872e+08             2394.793301             2394.793301
+min       1.689235e+15       1.689235e+15          -104372.000000           -46705.000000
+25%       1.689236e+15       1.689236e+15             -125.000000             -237.000000
+50%       1.689237e+15       1.689237e+15               49.000000              -49.000000
+75%       1.689238e+15       1.689238e+15              237.000000              125.000000
+max       1.689239e+15       1.689239e+15            46705.000000           104372.000000
+
+Process spot_solusdt_1689247623835.json, multiple symbols file corresponding spot_multi_1689247623835.json
+single file event count: 54087
+merged event count: 54087
+       single_ts_micro  multiple_ts_micro  time_diff_single_multi  time_diff_multi_single
+count     5.408700e+04       5.408700e+04            54087.000000            54087.000000
+mean      1.689246e+15       1.689246e+15                7.059756               -7.059756
+std       9.770854e+08       9.770854e+08              354.625350              354.625350
+min       1.689244e+15       1.689244e+15           -13206.000000           -22465.000000
+25%       1.689245e+15       1.689245e+15              -23.000000              -46.000000
+50%       1.689246e+15       1.689246e+15                8.000000               -8.000000
+75%       1.689247e+15       1.689247e+15               46.000000               23.000000
+max       1.689248e+15       1.689248e+15            22465.000000            13206.000000
+
