@@ -1,0 +1,4480 @@
+Filename: spot_DASHUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1992
+file in data_200 length 1984
+                actual_time_diff
+count                       1984
+mean   0 days 00:00:03.605974294
+std    0 days 00:00:06.761515511
+min       0 days 00:00:00.007000
+25%       0 days 00:00:00.024000
+50%       0 days 00:00:00.732500
+75%       0 days 00:00:04.019250
+max       0 days 00:00:46.366000
+
+
+Filename: future_XRPUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 32420
+file in data_200 length 32422
+                  actual_time_diff
+count                        32420
+mean   -1 days +23:59:59.987245220
+std      0 days 00:00:00.044671930
+min       -1 days +23:59:58.487000
+25%       -1 days +23:59:59.998000
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: future_BCHUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 37902
+file in data_200 length 37901
+                actual_time_diff
+count                      37901
+mean   0 days 00:00:00.002696683
+std    0 days 00:00:00.017808207
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%              0 days 00:00:00
+max       0 days 00:00:00.803000
+
+
+Filename: future_DASHUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 898
+file in data_200 length 897
+                actual_time_diff
+count                        897
+mean   0 days 00:00:00.571770345
+std    0 days 00:00:01.534752993
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.223000
+max       0 days 00:00:14.729000
+
+
+Filename: spot_XLMUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2799
+file in data_200 length 2800
+                  actual_time_diff
+count                         2799
+mean   -1 days +23:59:59.723340479
+std      0 days 00:00:00.985771236
+min       -1 days +23:59:44.387000
+25%       -1 days +23:59:59.969000
+50%         0 days 00:00:00.004000
+75%         0 days 00:00:00.005500
+max         0 days 00:00:00.017000
+
+
+Filename: future_BTCUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 157409
+file in data_200 length 157411
+                  actual_time_diff
+count                       157409
+mean   -1 days +23:59:59.994844539
+std      0 days 00:00:00.024052106
+min       -1 days +23:59:59.378000
+25%       -1 days +23:59:59.995000
+50%       -1 days +23:59:59.999000
+75%                0 days 00:00:00
+max         0 days 00:00:00.528000
+
+
+Filename: future_BATUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6031
+file in data_200 length 6031
+      actual_time_diff
+count             6031
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ETCUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3871
+file in data_200 length 3871
+                actual_time_diff
+count                       3871
+mean   0 days 00:00:00.007469646
+std    0 days 00:00:00.002689254
+min       0 days 00:00:00.004000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.141000
+
+
+Filename: future_TRXUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5626
+file in data_200 length 5626
+      actual_time_diff
+count             5626
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_XTZUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 312
+file in data_200 length 312
+                actual_time_diff
+count                        312
+mean   0 days 00:00:00.009102564
+std    0 days 00:00:00.014814470
+min     -1 days +23:59:59.997000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.178000
+
+
+Filename: spot_ZECUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3040
+file in data_200 length 3040
+                actual_time_diff
+count                       3040
+mean   0 days 00:00:00.004937171
+std    0 days 00:00:00.006603293
+min     -1 days +23:59:59.995000
+25%       0 days 00:00:00.003000
+50%       0 days 00:00:00.004000
+75%       0 days 00:00:00.005000
+max       0 days 00:00:00.054000
+
+
+Filename: future_XLMUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3830
+file in data_200 length 3830
+      actual_time_diff
+count             3830
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ATOMUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3016
+file in data_200 length 3016
+                actual_time_diff
+count                       3016
+mean   0 days 00:00:00.000490384
+std    0 days 00:00:00.001794936
+min     -1 days +23:59:59.980000
+25%              0 days 00:00:00
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.009000
+
+
+Filename: spot_ETHUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 31736
+file in data_200 length 31745
+                  actual_time_diff
+count                        31736
+mean   -1 days +23:59:59.717165711
+std      0 days 00:00:00.353471392
+min       -1 days +23:59:57.046000
+25%       -1 days +23:59:59.551000
+50%       -1 days +23:59:59.863000
+75%       -1 days +23:59:59.994000
+max         0 days 00:00:00.273000
+
+
+Filename: future_ATOMUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 9149
+file in data_200 length 9148
+                actual_time_diff
+count                       9148
+mean   0 days 00:00:00.012570944
+std    0 days 00:00:00.101607743
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%              0 days 00:00:00
+max       0 days 00:00:03.196000
+
+
+Filename: spot_BTCUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 33986
+file in data_200 length 33975
+                actual_time_diff
+count                      33975
+mean   0 days 00:00:00.040408800
+std    0 days 00:00:00.088469799
+min     -1 days +23:59:59.992000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.025000
+max       0 days 00:00:01.448000
+
+
+Filename: future_ETHUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 76034
+file in data_200 length 76037
+                actual_time_diff
+count                      76034
+mean   0 days 00:00:00.001168950
+std    0 days 00:00:00.036433764
+min     -1 days +23:59:59.414000
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%              0 days 00:00:00
+max       0 days 00:00:00.632000
+
+
+Filename: future_BTCUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 133457
+file in data_200 length 133456
+                actual_time_diff
+count                     133456
+mean   0 days 00:00:00.013961350
+std    0 days 00:00:00.034164211
+min              0 days 00:00:00
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.004000
+75%       0 days 00:00:00.011000
+max       0 days 00:00:00.782000
+
+
+Filename: future_ONTUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3874
+file in data_200 length 3875
+                  actual_time_diff
+count                         3874
+mean   -1 days +23:59:59.866387713
+std      0 days 00:00:00.575182110
+min       -1 days +23:59:46.673000
+25%       -1 days +23:59:59.986000
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: future_LINKUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 31193
+file in data_200 length 31194
+                  actual_time_diff
+count                        31193
+mean   -1 days +23:59:59.985250377
+std      0 days 00:00:00.057048644
+min       -1 days +23:59:58.549000
+25%       -1 days +23:59:59.997000
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: future_BATUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2868
+file in data_200 length 2868
+      actual_time_diff
+count             2868
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ETCUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3295
+file in data_200 length 3295
+                actual_time_diff
+count                       3295
+mean   0 days 00:00:00.007534446
+std    0 days 00:00:00.003512655
+min              0 days 00:00:00
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.119000
+
+
+Filename: future_ZECUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2623
+file in data_200 length 2620
+                actual_time_diff
+count                       2620
+mean   0 days 00:00:01.024894656
+std    0 days 00:00:01.643684327
+min              0 days 00:00:00
+25%       0 days 00:00:00.051750
+50%       0 days 00:00:00.332500
+75%       0 days 00:00:01.293250
+max       0 days 00:00:12.079000
+
+
+Filename: future_DASHUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1871
+file in data_200 length 1872
+                  actual_time_diff
+count                         1871
+mean   -1 days +23:59:59.674457510
+std      0 days 00:00:01.067190049
+min       -1 days +23:59:43.263000
+25%       -1 days +23:59:59.876500
+50%       -1 days +23:59:59.996000
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_XMRUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1597
+file in data_200 length 1597
+                actual_time_diff
+count                       1597
+mean   0 days 00:00:00.006545397
+std    0 days 00:00:00.004554182
+min       0 days 00:00:00.001000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.182000
+
+
+Filename: future_XRPUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 38856
+file in data_200 length 38858
+                  actual_time_diff
+count                        38856
+mean   -1 days +23:59:59.971430590
+std      0 days 00:00:00.062924134
+min       -1 days +23:59:58.869000
+25%       -1 days +23:59:59.972000
+50%       -1 days +23:59:59.996000
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: future_IOTAUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5419
+file in data_200 length 5419
+      actual_time_diff
+count             5419
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ETHUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 30162
+file in data_200 length 30154
+                  actual_time_diff
+count                        30154
+mean   -1 days +23:59:59.869883432
+std      0 days 00:00:00.286437757
+min       -1 days +23:59:56.787000
+25%       -1 days +23:59:59.875000
+50%       -1 days +23:59:59.993000
+75%       -1 days +23:59:59.999000
+max         0 days 00:00:00.017000
+
+
+Filename: future_XLMUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4802
+file in data_200 length 4802
+      actual_time_diff
+count             4802
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ATOMUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2414
+file in data_200 length 2414
+                actual_time_diff
+count                       2414
+mean   0 days 00:00:00.003544324
+std    0 days 00:00:00.022660275
+min     -1 days +23:59:59.949000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.004000
+75%       0 days 00:00:00.005000
+max       0 days 00:00:00.391000
+
+
+Filename: future_EOSUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 13973
+file in data_200 length 13973
+                  actual_time_diff
+count                        13973
+mean   -1 days +23:59:59.947872469
+std      0 days 00:00:00.101351990
+min       -1 days +23:59:57.839000
+25%       -1 days +23:59:59.943000
+50%       -1 days +23:59:59.990000
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_LTCUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3505
+file in data_200 length 3506
+                  actual_time_diff
+count                         3505
+mean   -1 days +23:59:59.810750072
+std      0 days 00:00:00.611584050
+min       -1 days +23:59:52.152000
+25%       -1 days +23:59:59.983000
+50%         0 days 00:00:00.007000
+75%         0 days 00:00:00.008000
+max         0 days 00:00:00.019000
+
+
+Filename: spot_ZECUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 794
+file in data_200 length 794
+                actual_time_diff
+count                        794
+mean   0 days 00:00:00.001005037
+std    0 days 00:00:00.001409739
+min     -1 days +23:59:59.996000
+25%              0 days 00:00:00
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.014000
+
+
+Filename: future_TRXUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5784
+file in data_200 length 5784
+      actual_time_diff
+count             5784
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_ADAUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 18129
+file in data_200 length 18129
+                  actual_time_diff
+count                        18129
+mean   -1 days +23:59:59.964058581
+std      0 days 00:00:00.096191528
+min       -1 days +23:59:58.241000
+25%       -1 days +23:59:59.978000
+50%       -1 days +23:59:59.998000
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_BNBUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2853
+file in data_200 length 2853
+                actual_time_diff
+count                       2853
+mean   0 days 00:00:00.005129688
+std    0 days 00:00:00.017722657
+min     -1 days +23:59:59.857000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:00.244000
+
+
+Filename: spot_XTZUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 641
+file in data_200 length 641
+                actual_time_diff
+count                        641
+mean   0 days 00:00:00.010500780
+std    0 days 00:00:00.008985774
+min              0 days 00:00:00
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:00.045000
+
+
+Filename: spot_BCHUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5581
+file in data_200 length 5581
+                actual_time_diff
+count                       5581
+mean   0 days 00:00:00.000588066
+std    0 days 00:00:00.001532910
+min     -1 days +23:59:59.980000
+25%              0 days 00:00:00
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.023000
+
+
+Filename: future_XMRUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4475
+file in data_200 length 4475
+      actual_time_diff
+count             4475
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_ATOMUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 12746
+file in data_200 length 12747
+                  actual_time_diff
+count                        12746
+mean   -1 days +23:59:59.925470736
+std      0 days 00:00:00.238096102
+min       -1 days +23:59:52.576000
+25%       -1 days +23:59:59.966000
+50%       -1 days +23:59:59.995000
+75%       -1 days +23:59:59.999000
+max                0 days 00:00:00
+
+
+Filename: spot_ONTUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 922
+file in data_200 length 922
+                  actual_time_diff
+count                          922
+mean   -1 days +23:59:59.999932755
+std      0 days 00:00:00.010560812
+min       -1 days +23:59:59.949000
+25%         0 days 00:00:00.001000
+50%         0 days 00:00:00.003000
+75%         0 days 00:00:00.005000
+max         0 days 00:00:00.009000
+
+
+Filename: spot_BTCUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 55709
+file in data_200 length 55709
+                  actual_time_diff
+count                        55709
+mean   -1 days +23:59:59.899273852
+std      0 days 00:00:00.207118720
+min       -1 days +23:59:57.502000
+25%       -1 days +23:59:59.897000
+50%       -1 days +23:59:59.994000
+75%         0 days 00:00:00.004000
+max         0 days 00:00:00.436000
+
+
+Filename: future_LTCUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 17361
+file in data_200 length 17360
+                actual_time_diff
+count                      17360
+mean   0 days 00:00:00.040892684
+std    0 days 00:00:00.096328293
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.032000
+max       0 days 00:00:02.360000
+
+
+Filename: spot_EOSUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1219
+file in data_200 length 1219
+                actual_time_diff
+count                       1219
+mean   0 days 00:00:00.006441345
+std    0 days 00:00:00.003878126
+min     -1 days +23:59:59.969000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.014000
+
+
+Filename: spot_TRXUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1859
+file in data_200 length 1858
+                actual_time_diff
+count                       1858
+mean   0 days 00:00:00.394687298
+std    0 days 00:00:00.821448183
+min       0 days 00:00:00.007000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.021500
+75%       0 days 00:00:00.367250
+max       0 days 00:00:08.210000
+
+
+Filename: spot_IOTAUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1327
+file in data_200 length 1327
+                actual_time_diff
+count                       1327
+mean   0 days 00:00:00.002005275
+std    0 days 00:00:00.004749133
+min     -1 days +23:59:59.954000
+25%              0 days 00:00:00
+50%       0 days 00:00:00.003000
+75%       0 days 00:00:00.004000
+max       0 days 00:00:00.019000
+
+
+Filename: future_BNBUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 13301
+file in data_200 length 13301
+      actual_time_diff
+count            13301
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ADAUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2630
+file in data_200 length 2630
+                actual_time_diff
+count                       2630
+mean   0 days 00:00:00.007149049
+std    0 days 00:00:00.000787302
+min       0 days 00:00:00.002000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.020000
+
+
+Filename: future_BCHUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 31658
+file in data_200 length 31659
+                  actual_time_diff
+count                        31658
+mean   -1 days +23:59:59.955032630
+std      0 days 00:00:00.101554892
+min       -1 days +23:59:58.783000
+25%       -1 days +23:59:59.961000
+50%       -1 days +23:59:59.995000
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: future_ETCUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8517
+file in data_200 length 8517
+      actual_time_diff
+count             8517
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_DASHUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3132
+file in data_200 length 3132
+                actual_time_diff
+count                       3132
+mean      0 days 00:00:00.006500
+std    0 days 00:00:00.001222460
+min     -1 days +23:59:59.996000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.037000
+
+
+Filename: spot_XLMUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4162
+file in data_200 length 4162
+                actual_time_diff
+count                       4162
+mean   0 days 00:00:00.006567035
+std    0 days 00:00:00.001179390
+min     -1 days +23:59:59.999000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.023000
+
+
+Filename: spot_LINKUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5066
+file in data_200 length 5064
+                actual_time_diff
+count                       5064
+mean   0 days 00:00:00.302471958
+std    0 days 00:00:00.830388662
+min     -1 days +23:59:59.992000
+25%       0 days 00:00:00.004000
+50%       0 days 00:00:00.010000
+75%       0 days 00:00:00.169000
+max       0 days 00:00:15.800000
+
+
+Filename: spot_IOTAUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 449
+file in data_200 length 449
+                actual_time_diff
+count                        449
+mean   0 days 00:00:00.000481069
+std    0 days 00:00:00.000984351
+min     -1 days +23:59:59.994000
+25%              0 days 00:00:00
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.005000
+
+
+Filename: spot_ADAUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3581
+file in data_200 length 3581
+                actual_time_diff
+count                       3581
+mean   0 days 00:00:00.007436749
+std    0 days 00:00:00.001113016
+min       0 days 00:00:00.003000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.019000
+
+
+Filename: future_XTZUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1261
+file in data_200 length 1261
+      actual_time_diff
+count             1261
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_BNBUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 20095
+file in data_200 length 20097
+                  actual_time_diff
+count                        20095
+mean   -1 days +23:59:59.968465589
+std      0 days 00:00:00.090562397
+min       -1 days +23:59:58.110000
+25%       -1 days +23:59:59.981000
+50%       -1 days +23:59:59.998000
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_ONTUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 817
+file in data_200 length 817
+                actual_time_diff
+count                        817
+mean   0 days 00:00:00.000734394
+std    0 days 00:00:00.001201185
+min     -1 days +23:59:59.984000
+25%              0 days 00:00:00
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.005000
+
+
+Filename: future_LTCUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 15190
+file in data_200 length 15190
+      actual_time_diff
+count            15190
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_IOTAUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4577
+file in data_200 length 4577
+      actual_time_diff
+count             4577
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_EOSUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1792
+file in data_200 length 1792
+                actual_time_diff
+count                       1792
+mean   0 days 00:00:00.007995535
+std    0 days 00:00:00.016880834
+min     -1 days +23:59:59.975000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.385000
+
+
+Filename: future_XMRUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3420
+file in data_200 length 3420
+      actual_time_diff
+count             3420
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BCHUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5731
+file in data_200 length 5732
+                actual_time_diff
+count                       5731
+mean   0 days 00:00:00.010260861
+std    0 days 00:00:00.224927358
+min     -1 days +23:59:57.803000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.002000
+75%       0 days 00:00:00.004000
+max       0 days 00:00:05.667000
+
+
+Filename: spot_LINKUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4397
+file in data_200 length 4397
+                actual_time_diff
+count                       4397
+mean   0 days 00:00:00.157361610
+std    0 days 00:00:00.524061216
+min     -1 days +23:59:59.999000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.002000
+75%       0 days 00:00:00.029000
+max       0 days 00:00:07.007000
+
+
+Filename: spot_XRPUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8305
+file in data_200 length 8307
+                  actual_time_diff
+count                         8305
+mean   -1 days +23:59:59.939738230
+std      0 days 00:00:00.258191210
+min       -1 days +23:59:55.223000
+25%       -1 days +23:59:59.990000
+50%         0 days 00:00:00.007000
+75%         0 days 00:00:00.008000
+max         0 days 00:00:00.131000
+
+
+Filename: future_ETHUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 108192
+file in data_200 length 108192
+                actual_time_diff
+count                     108192
+mean   0 days 00:00:00.014462400
+std    0 days 00:00:00.051635887
+min     -1 days +23:59:59.383000
+25%              0 days 00:00:00
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:00.698000
+
+
+Filename: future_ONTUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2152
+file in data_200 length 2152
+      actual_time_diff
+count             2152
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_LINKUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 22754
+file in data_200 length 22752
+                actual_time_diff
+count                      22752
+mean   0 days 00:00:00.061132340
+std    0 days 00:00:00.136864011
+min              0 days 00:00:00
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.054000
+max       0 days 00:00:02.423000
+
+
+Filename: future_ZECUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2798
+file in data_200 length 2798
+      actual_time_diff
+count             2798
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BATUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2130
+file in data_200 length 2130
+                  actual_time_diff
+count                         2130
+mean   -1 days +23:59:59.999655400
+std      0 days 00:00:00.118289931
+min       -1 days +23:59:55.091000
+25%         0 days 00:00:00.005000
+50%         0 days 00:00:00.006000
+75%         0 days 00:00:00.008000
+max         0 days 00:00:00.014000
+
+
+Filename: spot_XMRUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1430
+file in data_200 length 1430
+                actual_time_diff
+count                       1430
+mean   0 days 00:00:00.006582517
+std    0 days 00:00:00.002357152
+min       0 days 00:00:00.005000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.029000
+
+
+Filename: spot_BATUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1725
+file in data_200 length 1725
+                actual_time_diff
+count                       1725
+mean   0 days 00:00:00.006049855
+std    0 days 00:00:00.001428032
+min     -1 days +23:59:59.993000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.006000
+max       0 days 00:00:00.022000
+
+
+Filename: spot_XMRUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 877
+file in data_200 length 876
+                actual_time_diff
+count                        876
+mean   0 days 00:00:00.043660958
+std    0 days 00:00:00.279225918
+min       0 days 00:00:00.007000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:04.660000
+
+
+Filename: spot_ETHUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 35919
+file in data_200 length 35926
+                  actual_time_diff
+count                        35919
+mean   -1 days +23:59:59.848449039
+std      0 days 00:00:00.348150165
+min       -1 days +23:59:55.358000
+25%       -1 days +23:59:59.880000
+50%       -1 days +23:59:59.998000
+75%         0 days 00:00:00.005000
+max         0 days 00:00:00.250000
+
+
+Filename: spot_ATOMUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3262
+file in data_200 length 3263
+                  actual_time_diff
+count                         3262
+mean   -1 days +23:59:59.893699571
+std      0 days 00:00:00.712109303
+min       -1 days +23:59:40.548000
+25%         0 days 00:00:00.006000
+50%         0 days 00:00:00.007000
+75%         0 days 00:00:00.007000
+max         0 days 00:00:00.026000
+
+
+Filename: future_XLMUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6355
+file in data_200 length 6355
+      actual_time_diff
+count             6355
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_LINKUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 29943
+file in data_200 length 29943
+      actual_time_diff
+count            29943
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_ONTUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3731
+file in data_200 length 3730
+                actual_time_diff
+count                       3730
+mean   0 days 00:00:00.113730831
+std    0 days 00:00:00.517700669
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%       0 days 00:00:00.013000
+max       0 days 00:00:10.412000
+
+
+Filename: spot_ZECUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1929
+file in data_200 length 1929
+                actual_time_diff
+count                       1929
+mean   0 days 00:00:00.007696734
+std    0 days 00:00:00.001981447
+min       0 days 00:00:00.002000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.034000
+
+
+Filename: spot_XRPUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5255
+file in data_200 length 5256
+                  actual_time_diff
+count                         5255
+mean   -1 days +23:59:59.834755281
+std      0 days 00:00:00.417662824
+min       -1 days +23:59:55.480000
+25%       -1 days +23:59:59.899000
+50%       -1 days +23:59:59.997000
+75%         0 days 00:00:00.005000
+max         0 days 00:00:00.120000
+
+
+Filename: future_TRXUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8024
+file in data_200 length 8024
+      actual_time_diff
+count             8024
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_XTZUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 498
+file in data_200 length 498
+                actual_time_diff
+count                        498
+mean   0 days 00:00:00.001823293
+std    0 days 00:00:00.002656168
+min     -1 days +23:59:59.998000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.011000
+
+
+Filename: future_BTCUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 117493
+file in data_200 length 117493
+                  actual_time_diff
+count                       117493
+mean   -1 days +23:59:59.979485212
+std      0 days 00:00:00.045335517
+min       -1 days +23:59:59.237000
+25%       -1 days +23:59:59.982000
+50%       -1 days +23:59:59.994000
+75%       -1 days +23:59:59.999000
+max                0 days 00:00:00
+
+
+Filename: spot_ETCUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4456
+file in data_200 length 4457
+                actual_time_diff
+count                       4456
+mean   0 days 00:00:00.001188958
+std    0 days 00:00:00.033383648
+min     -1 days +23:59:59.067000
+25%       0 days 00:00:00.002000
+50%       0 days 00:00:00.004000
+75%       0 days 00:00:00.005000
+max       0 days 00:00:00.102000
+
+
+Filename: future_EOSUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 10356
+file in data_200 length 10356
+                  actual_time_diff
+count                        10356
+mean   -1 days +23:59:59.987911646
+std      0 days 00:00:00.066976663
+min       -1 days +23:59:58.039000
+25%                0 days 00:00:00
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_LTCUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 7716
+file in data_200 length 7717
+                  actual_time_diff
+count                         7716
+mean   -1 days +23:59:59.927870659
+std      0 days 00:00:00.309800409
+min       -1 days +23:59:54.322000
+25%                0 days 00:00:00
+50%         0 days 00:00:00.006000
+75%         0 days 00:00:00.007000
+max         0 days 00:00:00.256000
+
+
+Filename: future_BATUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1837
+file in data_200 length 1837
+      actual_time_diff
+count             1837
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BNBUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 11175
+file in data_200 length 11175
+                actual_time_diff
+count                      11175
+mean   0 days 00:00:00.006346040
+std    0 days 00:00:00.005432460
+min     -1 days +23:59:59.971000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.363000
+
+
+Filename: future_ADAUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 24234
+file in data_200 length 24235
+                  actual_time_diff
+count                        24234
+mean   -1 days +23:59:59.990888422
+std      0 days 00:00:00.039203661
+min       -1 days +23:59:58.398000
+25%                0 days 00:00:00
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: future_IOTAUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3461
+file in data_200 length 3461
+      actual_time_diff
+count             3461
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_DASHUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1611
+file in data_200 length 1611
+      actual_time_diff
+count             1611
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_XTZUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2492
+file in data_200 length 2488
+                actual_time_diff
+count                       2488
+mean   0 days 00:00:01.441993569
+std    0 days 00:00:02.320209661
+min              0 days 00:00:00
+25%       0 days 00:00:00.021000
+50%       0 days 00:00:00.311000
+75%       0 days 00:00:01.907750
+max       0 days 00:00:14.661000
+
+
+Filename: future_XRPUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 33054
+file in data_200 length 33054
+      actual_time_diff
+count            33054
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_XTZUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1066
+file in data_200 length 1066
+                actual_time_diff
+count                       1066
+mean   0 days 00:00:00.005120075
+std    0 days 00:00:00.008997998
+min     -1 days +23:59:59.997000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.003000
+75%       0 days 00:00:00.005000
+max       0 days 00:00:00.050000
+
+
+Filename: future_TRXUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5602
+file in data_200 length 5602
+      actual_time_diff
+count             5602
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ZECUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5050
+file in data_200 length 5050
+                actual_time_diff
+count                       5050
+mean   0 days 00:00:00.007072475
+std    0 days 00:00:00.001360934
+min              0 days 00:00:00
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.041000
+
+
+Filename: spot_ATOMUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3235
+file in data_200 length 3234
+                actual_time_diff
+count                       3234
+mean   0 days 00:00:00.251316017
+std    0 days 00:00:00.868310480
+min     -1 days +23:59:59.984000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.010000
+75%       0 days 00:00:00.075000
+max       0 days 00:00:11.308000
+
+
+Filename: future_XLMUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5763
+file in data_200 length 5763
+      actual_time_diff
+count             5763
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_ETCUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 12601
+file in data_200 length 12603
+                  actual_time_diff
+count                        12601
+mean   -1 days +23:59:59.920756528
+std      0 days 00:00:00.200461738
+min       -1 days +23:59:54.249000
+25%       -1 days +23:59:59.934000
+50%       -1 days +23:59:59.993000
+75%       -1 days +23:59:59.999000
+max                0 days 00:00:00
+
+
+Filename: spot_ETHUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 36512
+file in data_200 length 36512
+                  actual_time_diff
+count                        36512
+mean   -1 days +23:59:59.894910003
+std      0 days 00:00:00.219001440
+min       -1 days +23:59:57.135000
+25%       -1 days +23:59:59.888000
+50%       -1 days +23:59:59.992000
+75%         0 days 00:00:00.005000
+max         0 days 00:00:00.300000
+
+
+Filename: future_BCHUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 29792
+file in data_200 length 29792
+                  actual_time_diff
+count                        29792
+mean   -1 days +23:59:59.989340696
+std      0 days 00:00:00.054938248
+min       -1 days +23:59:58.402000
+25%       -1 days +23:59:59.999000
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max         0 days 00:00:00.619000
+
+
+Filename: future_XRPUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 38491
+file in data_200 length 38491
+                actual_time_diff
+count                      38491
+mean   0 days 00:00:00.009538827
+std    0 days 00:00:00.038043254
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%       0 days 00:00:00.001000
+max       0 days 00:00:01.128000
+
+
+Filename: spot_TRXUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2382
+file in data_200 length 2382
+                actual_time_diff
+count                       2382
+mean   0 days 00:00:00.006697313
+std    0 days 00:00:00.013500770
+min       0 days 00:00:00.004000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.522000
+
+
+Filename: future_DASHUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4183
+file in data_200 length 4183
+      actual_time_diff
+count             4183
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_BATUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2849
+file in data_200 length 2849
+      actual_time_diff
+count             2849
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_BTCUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 167051
+file in data_200 length 167048
+                  actual_time_diff
+count                       167048
+mean   -1 days +23:59:59.989064234
+std      0 days 00:00:00.031483798
+min       -1 days +23:59:59.333000
+25%       -1 days +23:59:59.992000
+50%       -1 days +23:59:59.998000
+75%                0 days 00:00:00
+max         0 days 00:00:00.113000
+
+
+Filename: spot_ETCUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3453
+file in data_200 length 3453
+                actual_time_diff
+count                       3453
+mean   0 days 00:00:00.000979438
+std    0 days 00:00:00.000732766
+min     -1 days +23:59:59.999000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.015000
+
+
+Filename: spot_LINKUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 7662
+file in data_200 length 7662
+                actual_time_diff
+count                       7662
+mean   0 days 00:00:00.074112764
+std    0 days 00:00:00.335919811
+min       0 days 00:00:00.004000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.009000
+75%       0 days 00:00:00.010000
+max       0 days 00:00:06.730000
+
+
+Filename: spot_BNBUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3988
+file in data_200 length 3988
+                actual_time_diff
+count                       3988
+mean   0 days 00:00:00.006067452
+std    0 days 00:00:00.006759675
+min     -1 days +23:59:59.928000
+25%       0 days 00:00:00.005000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.388000
+
+
+Filename: future_ADAUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 17995
+file in data_200 length 17901
+                actual_time_diff
+count                      17901
+mean   0 days 00:00:04.695833975
+std    0 days 00:00:03.146940615
+min              0 days 00:00:00
+25%       0 days 00:00:02.579000
+50%       0 days 00:00:04.164000
+75%       0 days 00:00:06.110000
+max       0 days 00:00:16.049000
+
+
+Filename: spot_LTCUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4792
+file in data_200 length 4792
+                actual_time_diff
+count                       4792
+mean   0 days 00:00:00.012753964
+std    0 days 00:00:00.072925673
+min       0 days 00:00:00.001000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:01.907000
+
+
+Filename: future_EOSUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 17964
+file in data_200 length 17964
+      actual_time_diff
+count            17964
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_XTZUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2433
+file in data_200 length 2433
+      actual_time_diff
+count             2433
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_IOTAUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 472
+file in data_200 length 472
+                actual_time_diff
+count                        472
+mean   0 days 00:00:00.006790254
+std    0 days 00:00:00.004029149
+min     -1 days +23:59:59.984000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.023000
+
+
+Filename: spot_ADAUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2872
+file in data_200 length 2872
+                actual_time_diff
+count                       2872
+mean   0 days 00:00:00.000976323
+std    0 days 00:00:00.001125430
+min     -1 days +23:59:59.997000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.023000
+
+
+Filename: future_BNBUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 9678
+file in data_200 length 9678
+                  actual_time_diff
+count                         9678
+mean   -1 days +23:59:59.966174003
+std      0 days 00:00:00.134461999
+min       -1 days +23:59:57.781000
+25%       -1 days +23:59:59.995000
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_BATUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1751
+file in data_200 length 1751
+                actual_time_diff
+count                       1751
+mean   0 days 00:00:00.006223300
+std    0 days 00:00:00.001097969
+min     -1 days +23:59:59.999000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.020000
+
+
+Filename: spot_ONTUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1549
+file in data_200 length 1549
+                actual_time_diff
+count                       1549
+mean   0 days 00:00:00.006611362
+std    0 days 00:00:00.004838879
+min     -1 days +23:59:59.972000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.020000
+
+
+Filename: spot_EOSUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2048
+file in data_200 length 2048
+                  actual_time_diff
+count                         2048
+mean   -1 days +23:59:59.962874512
+std      0 days 00:00:00.347081999
+min       -1 days +23:59:52.523000
+25%                0 days 00:00:00
+50%         0 days 00:00:00.001000
+75%         0 days 00:00:00.001000
+max         0 days 00:00:00.012000
+
+
+Filename: future_LTCUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 15905
+file in data_200 length 15906
+                  actual_time_diff
+count                        15905
+mean   -1 days +23:59:59.995791324
+std      0 days 00:00:00.038302204
+min       -1 days +23:59:59.011000
+25%                0 days 00:00:00
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: future_ZECUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1541
+file in data_200 length 1541
+      actual_time_diff
+count             1541
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_XRPUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 7601
+file in data_200 length 7602
+                  actual_time_diff
+count                         7601
+mean   -1 days +23:59:59.917012894
+std      0 days 00:00:00.284937841
+min       -1 days +23:59:55.429000
+25%       -1 days +23:59:59.983000
+50%         0 days 00:00:00.005000
+75%         0 days 00:00:00.006000
+max         0 days 00:00:00.152000
+
+
+Filename: future_XMRUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3068
+file in data_200 length 3068
+      actual_time_diff
+count             3068
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BCHUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5179
+file in data_200 length 5179
+                actual_time_diff
+count                       5179
+mean   0 days 00:00:00.006720023
+std    0 days 00:00:00.002016350
+min     -1 days +23:59:59.974000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.016000
+
+
+Filename: future_ETHUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 55704
+file in data_200 length 55700
+                actual_time_diff
+count                      55700
+mean   0 days 00:00:00.015771436
+std    0 days 00:00:00.061757902
+min     -1 days +23:59:59.355000
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%       0 days 00:00:00.004000
+max       0 days 00:00:00.830000
+
+
+Filename: spot_BTCUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 31366
+file in data_200 length 31371
+                  actual_time_diff
+count                        31366
+mean   -1 days +23:59:59.802630333
+std      0 days 00:00:00.354828678
+min       -1 days +23:59:56.955000
+25%       -1 days +23:59:59.740000
+50%       -1 days +23:59:59.983000
+75%         0 days 00:00:00.006000
+max         0 days 00:00:00.167000
+
+
+Filename: future_ATOMUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8243
+file in data_200 length 8243
+                  actual_time_diff
+count                         8243
+mean   -1 days +23:59:59.937491205
+std      0 days 00:00:00.243281741
+min       -1 days +23:59:55.853000
+25%       -1 days +23:59:59.991000
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_TRXUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3040
+file in data_200 length 3040
+                actual_time_diff
+count                       3040
+mean   0 days 00:00:00.006840789
+std    0 days 00:00:00.004389813
+min       0 days 00:00:00.003000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.233000
+
+
+Filename: spot_LINKUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4762
+file in data_200 length 4761
+                actual_time_diff
+count                       4761
+mean   0 days 00:00:00.118387943
+std    0 days 00:00:00.554359816
+min       0 days 00:00:00.005000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.011000
+max       0 days 00:00:12.276000
+
+
+Filename: future_XMRUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2148
+file in data_200 length 2148
+      actual_time_diff
+count             2148
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BCHUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6097
+file in data_200 length 6098
+                actual_time_diff
+count                       6097
+mean   0 days 00:00:00.007165983
+std    0 days 00:00:00.003608644
+min     -1 days +23:59:59.812000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.054000
+
+
+Filename: spot_XLMUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1978
+file in data_200 length 1978
+                actual_time_diff
+count                       1978
+mean   0 days 00:00:00.008552578
+std    0 days 00:00:00.005806569
+min       0 days 00:00:00.006000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:00.241000
+
+
+Filename: spot_ONTUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1114
+file in data_200 length 1114
+                actual_time_diff
+count                       1114
+mean   0 days 00:00:00.006842010
+std    0 days 00:00:00.006621196
+min     -1 days +23:59:59.975000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.195000
+
+
+Filename: future_LTCUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 15156
+file in data_200 length 15156
+      actual_time_diff
+count            15156
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_EOSUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2008
+file in data_200 length 2008
+                actual_time_diff
+count                       2008
+mean   0 days 00:00:00.001704183
+std    0 days 00:00:00.007525551
+min     -1 days +23:59:59.953000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.004000
+75%       0 days 00:00:00.005000
+max       0 days 00:00:00.011000
+
+
+Filename: future_ETCUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 14459
+file in data_200 length 14458
+                actual_time_diff
+count                      14458
+mean   0 days 00:00:00.086173191
+std    0 days 00:00:00.235979149
+min              0 days 00:00:00
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.059000
+max       0 days 00:00:05.558000
+
+
+Filename: spot_IOTAUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1016
+file in data_200 length 1016
+                actual_time_diff
+count                       1016
+mean   0 days 00:00:00.007192913
+std    0 days 00:00:00.001003535
+min              0 days 00:00:00
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.019000
+
+
+Filename: future_BNBUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 10028
+file in data_200 length 10027
+                actual_time_diff
+count                      10027
+mean   0 days 00:00:00.083180013
+std    0 days 00:00:00.174291705
+min              0 days 00:00:00
+25%       0 days 00:00:00.002000
+50%       0 days 00:00:00.013000
+75%       0 days 00:00:00.080000
+max       0 days 00:00:03.387000
+
+
+Filename: spot_ADAUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2307
+file in data_200 length 2307
+                actual_time_diff
+count                       2307
+mean   0 days 00:00:00.003142175
+std    0 days 00:00:00.009223714
+min     -1 days +23:59:59.978000
+25%       0 days 00:00:00.002000
+50%       0 days 00:00:00.003000
+75%       0 days 00:00:00.004000
+max       0 days 00:00:00.417000
+
+
+Filename: spot_DASHUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1717
+file in data_200 length 1717
+                actual_time_diff
+count                       1717
+mean   0 days 00:00:00.013260337
+std    0 days 00:00:00.024008189
+min       0 days 00:00:00.002000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:00.161000
+
+
+Filename: spot_XMRUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 942
+file in data_200 length 942
+                actual_time_diff
+count                        942
+mean   0 days 00:00:00.000873673
+std    0 days 00:00:00.000721586
+min     -1 days +23:59:59.999000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.013000
+
+
+Filename: future_BCHUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 22520
+file in data_200 length 22519
+                  actual_time_diff
+count                        22519
+mean   -1 days +23:59:59.997963098
+std      0 days 00:00:00.047915245
+min       -1 days +23:59:59.125000
+25%                0 days 00:00:00
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max         0 days 00:00:00.829000
+
+
+Filename: spot_LTCUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4172
+file in data_200 length 4172
+                actual_time_diff
+count                       4172
+mean   0 days 00:00:00.008111697
+std    0 days 00:00:00.007696252
+min       0 days 00:00:00.005000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.255000
+
+
+Filename: future_EOSUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8771
+file in data_200 length 8770
+      actual_time_diff
+count             8770
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_ONTUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1642
+file in data_200 length 1642
+      actual_time_diff
+count             1642
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_LINKUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 19776
+file in data_200 length 19776
+                  actual_time_diff
+count                        19776
+mean   -1 days +23:59:59.965243326
+std      0 days 00:00:00.109255346
+min       -1 days +23:59:58.223000
+25%       -1 days +23:59:59.989000
+50%       -1 days +23:59:59.999000
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_LINKUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6078
+file in data_200 length 6080
+                  actual_time_diff
+count                         6078
+mean   -1 days +23:59:59.777602501
+std      0 days 00:00:00.705981372
+min       -1 days +23:59:39.173000
+25%       -1 days +23:59:59.894000
+50%         0 days 00:00:00.001000
+75%         0 days 00:00:00.005000
+max         0 days 00:00:00.095000
+
+
+Filename: spot_XTZUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 375
+file in data_200 length 375
+                actual_time_diff
+count                        375
+mean   0 days 00:00:00.018397333
+std    0 days 00:00:00.034753055
+min       0 days 00:00:00.002000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:00.166000
+
+
+Filename: spot_BNBUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 10433
+file in data_200 length 10431
+                actual_time_diff
+count                      10431
+mean   0 days 00:00:00.067807017
+std    0 days 00:00:00.207651368
+min     -1 days +23:59:59.987000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.010000
+75%       0 days 00:00:00.033000
+max       0 days 00:00:05.627000
+
+
+Filename: future_ADAUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 18408
+file in data_200 length 18408
+      actual_time_diff
+count            18408
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_BATUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5581
+file in data_200 length 5581
+                actual_time_diff
+count                       5581
+mean   0 days 00:00:00.002670489
+std    0 days 00:00:00.021153674
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%              0 days 00:00:00
+max       0 days 00:00:00.576000
+
+
+Filename: future_XMRUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4517
+file in data_200 length 4512
+                actual_time_diff
+count                       4512
+mean   0 days 00:00:00.993613696
+std    0 days 00:00:01.449625801
+min              0 days 00:00:00
+25%       0 days 00:00:00.287000
+50%       0 days 00:00:00.562000
+75%       0 days 00:00:01.057000
+max       0 days 00:00:20.360000
+
+
+Filename: spot_ZECUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4586
+file in data_200 length 4586
+                actual_time_diff
+count                       4586
+mean   0 days 00:00:00.013921064
+std    0 days 00:00:00.036085719
+min              0 days 00:00:00
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.285000
+
+
+Filename: spot_ONTUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1131
+file in data_200 length 1131
+                actual_time_diff
+count                       1131
+mean   0 days 00:00:00.006328912
+std    0 days 00:00:00.004543949
+min     -1 days +23:59:59.994000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.153000
+
+
+Filename: future_IOTAUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1565
+file in data_200 length 1565
+      actual_time_diff
+count             1565
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ETHUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 57377
+file in data_200 length 57372
+                  actual_time_diff
+count                        57372
+mean   -1 days +23:59:59.964004898
+std      0 days 00:00:00.127407430
+min       -1 days +23:59:57.719000
+25%       -1 days +23:59:59.991000
+50%         0 days 00:00:00.005000
+75%         0 days 00:00:00.006000
+max         0 days 00:00:00.375000
+
+
+Filename: future_XRPUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 41669
+file in data_200 length 41667
+                actual_time_diff
+count                      41667
+mean   0 days 00:00:00.012552091
+std    0 days 00:00:00.049999693
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%       0 days 00:00:00.003000
+max       0 days 00:00:01.194000
+
+
+Filename: spot_IOTAUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1427
+file in data_200 length 1427
+                actual_time_diff
+count                       1427
+mean   0 days 00:00:00.006163980
+std    0 days 00:00:00.001299376
+min     -1 days +23:59:59.998000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.014000
+
+
+Filename: future_ADAUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 19443
+file in data_200 length 19443
+      actual_time_diff
+count            19443
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BNBUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3453
+file in data_200 length 3453
+                actual_time_diff
+count                       3453
+mean   0 days 00:00:00.007028091
+std    0 days 00:00:00.002357544
+min     -1 days +23:59:59.973000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.013000
+
+
+Filename: future_TRXUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6360
+file in data_200 length 6361
+                  actual_time_diff
+count                         6360
+mean   -1 days +23:59:59.886711636
+std      0 days 00:00:00.314737806
+min       -1 days +23:59:55.201000
+25%       -1 days +23:59:59.940000
+50%       -1 days +23:59:59.995000
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_LTCUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3723
+file in data_200 length 3724
+                  actual_time_diff
+count                         3723
+mean   -1 days +23:59:59.816515445
+std      0 days 00:00:00.630883665
+min       -1 days +23:59:47.876000
+25%       -1 days +23:59:59.980000
+50%         0 days 00:00:00.006000
+75%         0 days 00:00:00.007000
+max         0 days 00:00:00.024000
+
+
+Filename: future_LINKUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 21558
+file in data_200 length 21560
+                  actual_time_diff
+count                        21558
+mean   -1 days +23:59:59.929620142
+std      0 days 00:00:00.150747859
+min       -1 days +23:59:57.729000
+25%       -1 days +23:59:59.935000
+50%       -1 days +23:59:59.994000
+75%       -1 days +23:59:59.999000
+max                0 days 00:00:00
+
+
+Filename: future_EOSUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 10826
+file in data_200 length 10825
+      actual_time_diff
+count            10825
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_ONTUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1649
+file in data_200 length 1649
+      actual_time_diff
+count             1649
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_BTCUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 282427
+file in data_200 length 282420
+                actual_time_diff
+count                     282420
+mean   0 days 00:00:00.005316326
+std    0 days 00:00:00.022800347
+min     -1 days +23:59:59.446000
+25%     -1 days +23:59:59.999000
+50%              0 days 00:00:00
+75%       0 days 00:00:00.005000
+max       0 days 00:00:00.598000
+
+
+Filename: future_BCHUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 21368
+file in data_200 length 21368
+      actual_time_diff
+count            21368
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_XMRUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1185
+file in data_200 length 1185
+                actual_time_diff
+count                       1185
+mean   0 days 00:00:00.002584810
+std    0 days 00:00:00.002417861
+min     -1 days +23:59:59.979000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.002000
+75%       0 days 00:00:00.004000
+max       0 days 00:00:00.040000
+
+
+Filename: future_DASHUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3436
+file in data_200 length 3436
+      actual_time_diff
+count             3436
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ATOMUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6142
+file in data_200 length 6142
+                actual_time_diff
+count                       6142
+mean   0 days 00:00:00.014746499
+std    0 days 00:00:00.161642868
+min     -1 days +23:59:59.981000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:07.305000
+
+
+Filename: future_XLMUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8402
+file in data_200 length 8402
+      actual_time_diff
+count             8402
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_IOTAUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3542
+file in data_200 length 3542
+      actual_time_diff
+count             3542
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ETCUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3770
+file in data_200 length 3770
+                actual_time_diff
+count                       3770
+mean   0 days 00:00:00.008229442
+std    0 days 00:00:00.000659749
+min       0 days 00:00:00.007000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.022000
+
+
+Filename: spot_BCHUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 7302
+file in data_200 length 7301
+                actual_time_diff
+count                       7301
+mean   0 days 00:00:00.200769757
+std    0 days 00:00:00.516556089
+min     -1 days +23:59:59.986000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.017000
+75%       0 days 00:00:00.128000
+max       0 days 00:00:09.205000
+
+
+Filename: spot_XRPUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6102
+file in data_200 length 6100
+                actual_time_diff
+count                       6100
+mean   0 days 00:00:00.188916393
+std    0 days 00:00:00.471014606
+min     -1 days +23:59:59.986000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.010000
+75%       0 days 00:00:00.091000
+max       0 days 00:00:04.880000
+
+
+Filename: future_XMRUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3450
+file in data_200 length 3449
+      actual_time_diff
+count             3449
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ZECUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1505
+file in data_200 length 1505
+                actual_time_diff
+count                       1505
+mean   0 days 00:00:00.006160132
+std    0 days 00:00:00.001264913
+min     -1 days +23:59:59.995000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.019000
+
+
+Filename: spot_IOTAUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1171
+file in data_200 length 1171
+                actual_time_diff
+count                       1171
+mean   0 days 00:00:00.005630230
+std    0 days 00:00:00.004009272
+min     -1 days +23:59:59.970000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.006000
+max       0 days 00:00:00.022000
+
+
+Filename: spot_BATUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 901
+file in data_200 length 901
+                actual_time_diff
+count                        901
+mean   0 days 00:00:00.006966703
+std    0 days 00:00:00.002108448
+min     -1 days +23:59:59.986000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.027000
+
+
+Filename: future_ETCUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 7843
+file in data_200 length 7843
+      actual_time_diff
+count             7843
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BTCUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 25149
+file in data_200 length 25147
+                actual_time_diff
+count                      25147
+mean   0 days 00:00:00.037661072
+std    0 days 00:00:00.093528984
+min     -1 days +23:59:59.260000
+25%       0 days 00:00:00.002000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.030000
+max       0 days 00:00:01.124000
+
+
+Filename: spot_ONTUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2159
+file in data_200 length 2158
+                actual_time_diff
+count                       2158
+mean   0 days 00:00:00.245944856
+std    0 days 00:00:01.184332165
+min     -1 days +23:59:59.974000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:20.166000
+
+
+Filename: future_ATOMUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 7716
+file in data_200 length 7716
+      actual_time_diff
+count             7716
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ETHUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 42965
+file in data_200 length 42957
+                actual_time_diff
+count                      42957
+mean   0 days 00:00:00.005389552
+std    0 days 00:00:00.089011034
+min     -1 days +23:59:58.204000
+25%       0 days 00:00:00.005000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:01.452000
+
+
+Filename: future_BNBUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 12244
+file in data_200 length 12244
+      actual_time_diff
+count            12244
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_XTZUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1784
+file in data_200 length 1784
+      actual_time_diff
+count             1784
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ADAUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3160
+file in data_200 length 3160
+                actual_time_diff
+count                       3160
+mean   0 days 00:00:00.214487658
+std    0 days 00:00:00.639545478
+min       0 days 00:00:00.007000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.010000
+75%       0 days 00:00:00.045250
+max       0 days 00:00:08.524000
+
+
+Filename: spot_TRXUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1938
+file in data_200 length 1938
+                actual_time_diff
+count                       1938
+mean   0 days 00:00:00.007467492
+std    0 days 00:00:00.006520071
+min              0 days 00:00:00
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.293000
+
+
+Filename: spot_DASHUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1831
+file in data_200 length 1830
+                actual_time_diff
+count                       1830
+mean   0 days 00:00:00.337780874
+std    0 days 00:00:02.016816990
+min     -1 days +23:59:59.996000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.005000
+75%       0 days 00:00:00.087000
+max       0 days 00:00:55.368000
+
+
+Filename: future_ZECUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1977
+file in data_200 length 1977
+      actual_time_diff
+count             1977
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_EOSUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2913
+file in data_200 length 2914
+                  actual_time_diff
+count                         2913
+mean   -1 days +23:59:59.949002747
+std      0 days 00:00:00.415278540
+min       -1 days +23:59:49.035000
+25%         0 days 00:00:00.007000
+50%         0 days 00:00:00.008000
+75%         0 days 00:00:00.008000
+max         0 days 00:00:00.017000
+
+
+Filename: future_LTCUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 14333
+file in data_200 length 14332
+                actual_time_diff
+count                      14332
+mean   0 days 00:00:00.048455414
+std    0 days 00:00:00.124518969
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.027000
+max       0 days 00:00:01.842000
+
+
+Filename: spot_LINKUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 7302
+file in data_200 length 7301
+                actual_time_diff
+count                       7301
+mean   0 days 00:00:00.069629639
+std    0 days 00:00:00.254127476
+min     -1 days +23:59:59.998000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.012000
+max       0 days 00:00:07.090000
+
+
+Filename: spot_XLMUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1691
+file in data_200 length 1691
+                actual_time_diff
+count                       1691
+mean   0 days 00:00:00.003258426
+std    0 days 00:00:00.002597685
+min     -1 days +23:59:59.990000
+25%       0 days 00:00:00.002000
+50%       0 days 00:00:00.003000
+75%       0 days 00:00:00.005000
+max       0 days 00:00:00.025000
+
+
+Filename: future_ETHUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 64841
+file in data_200 length 64841
+                  actual_time_diff
+count                        64841
+mean   -1 days +23:59:59.963724419
+std      0 days 00:00:00.070762678
+min       -1 days +23:59:59.155000
+25%       -1 days +23:59:59.960000
+50%       -1 days +23:59:59.995000
+75%       -1 days +23:59:59.999000
+max                0 days 00:00:00
+
+
+Filename: spot_BATUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 693
+file in data_200 length 693
+                actual_time_diff
+count                        693
+mean   0 days 00:00:00.006968253
+std    0 days 00:00:00.001388069
+min     -1 days +23:59:59.999000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.016000
+
+
+Filename: future_ETCUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 10676
+file in data_200 length 10676
+      actual_time_diff
+count            10676
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_ATOMUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8414
+file in data_200 length 8414
+      actual_time_diff
+count             8414
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BTCUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 26788
+file in data_200 length 26788
+                actual_time_diff
+count                      26788
+mean   0 days 00:00:00.064963565
+std    0 days 00:00:00.141728289
+min     -1 days +23:59:59.984000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.004000
+75%       0 days 00:00:00.052000
+max       0 days 00:00:01.895000
+
+
+Filename: spot_ATOMUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3402
+file in data_200 length 3403
+                  actual_time_diff
+count                         3402
+mean   -1 days +23:59:59.972774545
+std      0 days 00:00:00.279603612
+min       -1 days +23:59:53.570000
+25%         0 days 00:00:00.005000
+50%         0 days 00:00:00.006000
+75%         0 days 00:00:00.007000
+max         0 days 00:00:00.514000
+
+
+Filename: future_XLMUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6458
+file in data_200 length 6457
+                actual_time_diff
+count                       6457
+mean   0 days 00:00:00.122450673
+std    0 days 00:00:00.407377436
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.063000
+max       0 days 00:00:08.791000
+
+
+Filename: spot_BCHUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 10442
+file in data_200 length 10443
+                  actual_time_diff
+count                        10442
+mean   -1 days +23:59:59.996370140
+std      0 days 00:00:00.063268301
+min       -1 days +23:59:58.091000
+25%         0 days 00:00:00.005000
+50%         0 days 00:00:00.006000
+75%         0 days 00:00:00.006000
+max         0 days 00:00:00.195000
+
+
+Filename: spot_XRPUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4298
+file in data_200 length 4296
+                actual_time_diff
+count                       4296
+mean   0 days 00:00:00.103209729
+std    0 days 00:00:00.303586160
+min     -1 days +23:59:59.973000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.020000
+max       0 days 00:00:04.017000
+
+
+Filename: future_BTCUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 149375
+file in data_200 length 149373
+                  actual_time_diff
+count                       149373
+mean   -1 days +23:59:59.992386837
+std      0 days 00:00:00.023519166
+min       -1 days +23:59:59.250000
+25%       -1 days +23:59:59.994000
+50%       -1 days +23:59:59.999000
+75%                0 days 00:00:00
+max         0 days 00:00:00.010000
+
+
+Filename: future_ETHUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 55195
+file in data_200 length 55201
+                  actual_time_diff
+count                        55195
+mean   -1 days +23:59:59.920035420
+std      0 days 00:00:00.102016509
+min       -1 days +23:59:59.091000
+25%       -1 days +23:59:59.881000
+50%       -1 days +23:59:59.959000
+75%       -1 days +23:59:59.995000
+max                0 days 00:00:00
+
+
+Filename: spot_XLMUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1259
+file in data_200 length 1259
+                actual_time_diff
+count                       1259
+mean   0 days 00:00:00.001102462
+std    0 days 00:00:00.001088231
+min     -1 days +23:59:59.998000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.015000
+
+
+Filename: future_DASHUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1924
+file in data_200 length 1917
+                actual_time_diff
+count                       1917
+mean   0 days 00:00:03.257701095
+std    0 days 00:00:03.998875980
+min       0 days 00:00:00.002000
+25%       0 days 00:00:00.523000
+50%       0 days 00:00:01.840000
+75%       0 days 00:00:04.449000
+max       0 days 00:00:33.875000
+
+
+Filename: future_ZECUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1916
+file in data_200 length 1916
+      actual_time_diff
+count             1916
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_DASHUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 953
+file in data_200 length 954
+                  actual_time_diff
+count                          953
+mean   -1 days +23:59:59.462791186
+std      0 days 00:00:02.482985219
+min       -1 days +23:59:21.632000
+25%       -1 days +23:59:59.849000
+50%       -1 days +23:59:59.999000
+75%         0 days 00:00:00.001000
+max         0 days 00:00:00.008000
+
+
+Filename: future_XTZUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1328
+file in data_200 length 1328
+      actual_time_diff
+count             1328
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_TRXUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2299
+file in data_200 length 2299
+                actual_time_diff
+count                       2299
+mean   0 days 00:00:00.007542844
+std    0 days 00:00:00.001793583
+min       0 days 00:00:00.005000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.078000
+
+
+Filename: future_DASHUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1443
+file in data_200 length 1443
+      actual_time_diff
+count             1443
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_IOTAUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4027
+file in data_200 length 4027
+      actual_time_diff
+count             4027
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_TRXUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 7589
+file in data_200 length 7589
+      actual_time_diff
+count             7589
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_BTCUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 122858
+file in data_200 length 122855
+                actual_time_diff
+count                     122855
+mean   0 days 00:00:00.001360424
+std    0 days 00:00:00.037789353
+min     -1 days +23:59:59.209000
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%       0 days 00:00:00.006000
+max       0 days 00:00:00.742000
+
+
+Filename: future_ADAUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 18797
+file in data_200 length 18797
+      actual_time_diff
+count            18797
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BNBUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3088
+file in data_200 length 3089
+                  actual_time_diff
+count                         3088
+mean   -1 days +23:59:59.730752915
+std      0 days 00:00:00.555332895
+min       -1 days +23:59:55.030000
+25%       -1 days +23:59:59.735000
+50%       -1 days +23:59:59.977000
+75%         0 days 00:00:00.001000
+max         0 days 00:00:00.308000
+
+
+Filename: spot_LTCUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3786
+file in data_200 length 3786
+                actual_time_diff
+count                       3786
+mean   0 days 00:00:00.003740887
+std    0 days 00:00:00.009949632
+min     -1 days +23:59:59.985000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.003000
+75%       0 days 00:00:00.005000
+max       0 days 00:00:00.198000
+
+
+Filename: future_LINKUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 17526
+file in data_200 length 17527
+                  actual_time_diff
+count                        17526
+mean   -1 days +23:59:59.969533208
+std      0 days 00:00:00.104116168
+min       -1 days +23:59:57.840000
+25%       -1 days +23:59:59.994000
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: future_EOSUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 16083
+file in data_200 length 16083
+      actual_time_diff
+count            16083
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ETCUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5064
+file in data_200 length 5064
+                  actual_time_diff
+count                         5064
+mean   -1 days +23:59:59.760907583
+std      0 days 00:00:00.747361154
+min       -1 days +23:59:49.220000
+25%       -1 days +23:59:59.912000
+50%       -1 days +23:59:59.998000
+75%         0 days 00:00:00.005000
+max         0 days 00:00:00.265000
+
+
+Filename: future_ONTUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2279
+file in data_200 length 2279
+      actual_time_diff
+count             2279
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ATOMUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3068
+file in data_200 length 3068
+                actual_time_diff
+count                       3068
+mean   0 days 00:00:00.175232398
+std    0 days 00:00:00.740319690
+min     -1 days +23:59:59.877000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.009000
+75%       0 days 00:00:00.014000
+max       0 days 00:00:13.795000
+
+
+Filename: future_XLMUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6580
+file in data_200 length 6580
+      actual_time_diff
+count             6580
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_BCHUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 26316
+file in data_200 length 26315
+                actual_time_diff
+count                      26315
+mean   0 days 00:00:00.000036481
+std    0 days 00:00:00.001921652
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%              0 days 00:00:00
+max       0 days 00:00:00.199000
+
+
+Filename: spot_XMRUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1104
+file in data_200 length 1104
+                actual_time_diff
+count                       1104
+mean   0 days 00:00:00.007221014
+std    0 days 00:00:00.000802349
+min       0 days 00:00:00.006000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.014000
+
+
+Filename: spot_XTZUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 908
+file in data_200 length 908
+                actual_time_diff
+count                        908
+mean   0 days 00:00:00.006763215
+std    0 days 00:00:00.001642896
+min     -1 days +23:59:59.994000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:00.023000
+
+
+Filename: future_IOTAUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3368
+file in data_200 length 3368
+      actual_time_diff
+count             3368
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_LTCUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 21724
+file in data_200 length 21724
+                  actual_time_diff
+count                        21724
+mean   -1 days +23:59:59.998630685
+std      0 days 00:00:00.015754623
+min       -1 days +23:59:59.286000
+25%                0 days 00:00:00
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_EOSUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 3468
+file in data_200 length 3468
+                actual_time_diff
+count                       3468
+mean   0 days 00:00:00.006196366
+std    0 days 00:00:00.010185888
+min     -1 days +23:59:59.991000
+25%       0 days 00:00:00.005000
+50%       0 days 00:00:00.006000
+75%       0 days 00:00:00.006000
+max       0 days 00:00:00.502000
+
+
+Filename: spot_ADAUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2988
+file in data_200 length 2956
+                actual_time_diff
+count                       2956
+mean   0 days 00:00:09.671126184
+std    0 days 00:00:09.165804164
+min       0 days 00:00:00.018000
+25%       0 days 00:00:01.684000
+50%       0 days 00:00:07.895000
+75%       0 days 00:00:14.266750
+max       0 days 00:00:46.561000
+
+
+Filename: future_BNBUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 12009
+file in data_200 length 12009
+                  actual_time_diff
+count                        12009
+mean   -1 days +23:59:59.999999667
+std      0 days 00:00:00.000018248
+min       -1 days +23:59:59.999000
+25%                0 days 00:00:00
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_ETHUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 28598
+file in data_200 length 28598
+                  actual_time_diff
+count                        28598
+mean   -1 days +23:59:59.883033779
+std      0 days 00:00:00.284203174
+min       -1 days +23:59:57.027000
+25%       -1 days +23:59:59.921250
+50%         0 days 00:00:00.004000
+75%         0 days 00:00:00.007000
+max         0 days 00:00:00.167000
+
+
+Filename: future_BCHUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 22796
+file in data_200 length 22796
+      actual_time_diff
+count            22796
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_XMRUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 772
+file in data_200 length 772
+                actual_time_diff
+count                        772
+mean   0 days 00:00:00.007562176
+std    0 days 00:00:00.005892466
+min       0 days 00:00:00.001000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.151000
+
+
+Filename: future_XRPUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 43222
+file in data_200 length 43221
+                actual_time_diff
+count                      43221
+mean   0 days 00:00:00.015704773
+std    0 days 00:00:00.046959099
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:01.022000
+
+
+Filename: spot_ZECUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 854
+file in data_200 length 854
+                actual_time_diff
+count                        854
+mean   0 days 00:00:00.011483606
+std    0 days 00:00:00.020868574
+min       0 days 00:00:00.005000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:00.161000
+
+
+Filename: future_EOSUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 12968
+file in data_200 length 12968
+                actual_time_diff
+count                      12968
+mean   0 days 00:00:00.005937307
+std    0 days 00:00:00.039359709
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%              0 days 00:00:00
+max       0 days 00:00:01.236000
+
+
+Filename: spot_LTCUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4032
+file in data_200 length 4031
+                actual_time_diff
+count                       4031
+mean   0 days 00:00:00.017729347
+std    0 days 00:00:00.135761758
+min     -1 days +23:59:59.995000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:03.153000
+
+
+Filename: future_ONTUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2535
+file in data_200 length 2535
+      actual_time_diff
+count             2535
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_BATUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4077
+file in data_200 length 4077
+      actual_time_diff
+count             4077
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_LINKUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 30015
+file in data_200 length 30015
+                  actual_time_diff
+count                        30015
+mean   -1 days +23:59:59.983179011
+std      0 days 00:00:00.066029564
+min       -1 days +23:59:58.587000
+25%       -1 days +23:59:59.998000
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_BNBUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2913
+file in data_200 length 2913
+                actual_time_diff
+count                       2913
+mean   0 days 00:00:00.113064194
+std    0 days 00:00:00.367199208
+min     -1 days +23:59:59.984000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:05.844000
+
+
+Filename: future_ADAUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 13852
+file in data_200 length 13852
+      actual_time_diff
+count            13852
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BCHUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6886
+file in data_200 length 6886
+                actual_time_diff
+count                       6886
+mean   0 days 00:00:00.053433633
+std    0 days 00:00:00.245937745
+min     -1 days +23:59:58.469000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:05.180000
+
+
+Filename: future_ETHUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 67813
+file in data_200 length 67815
+                  actual_time_diff
+count                        67813
+mean   -1 days +23:59:59.994163612
+std      0 days 00:00:00.035930307
+min       -1 days +23:59:59.230000
+25%                0 days 00:00:00
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max         0 days 00:00:00.536000
+
+
+Filename: spot_ETCUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5985
+file in data_200 length 5983
+                actual_time_diff
+count                       5983
+mean   0 days 00:00:00.173371887
+std    0 days 00:00:00.614215395
+min       0 days 00:00:00.003000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.010000
+75%       0 days 00:00:00.028000
+max       0 days 00:00:10.254000
+
+
+Filename: spot_XLMUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2006
+file in data_200 length 2006
+                actual_time_diff
+count                       2006
+mean   0 days 00:00:00.007323030
+std    0 days 00:00:00.001778883
+min       0 days 00:00:00.004000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.065000
+
+
+Filename: future_ZECUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1975
+file in data_200 length 1975
+      actual_time_diff
+count             1975
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_DASHUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1986
+file in data_200 length 1986
+                actual_time_diff
+count                       1986
+mean   0 days 00:00:00.007637462
+std    0 days 00:00:00.002172065
+min       0 days 00:00:00.002000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.039000
+
+
+Filename: future_XTZUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2279
+file in data_200 length 2279
+      actual_time_diff
+count             2279
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_TRXUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1584
+file in data_200 length 1584
+                actual_time_diff
+count                       1584
+mean   0 days 00:00:00.001090909
+std    0 days 00:00:00.001116948
+min     -1 days +23:59:59.999000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.020000
+
+
+Filename: future_ATOMUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8258
+file in data_200 length 8258
+                  actual_time_diff
+count                         8258
+mean   -1 days +23:59:59.904260112
+std      0 days 00:00:00.288725771
+min       -1 days +23:59:55.605000
+25%       -1 days +23:59:59.956000
+50%       -1 days +23:59:59.995000
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: future_ETCUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 6359
+file in data_200 length 6359
+      actual_time_diff
+count             6359
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_BTCUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 28092
+file in data_200 length 28095
+                  actual_time_diff
+count                        28092
+mean   -1 days +23:59:59.912643209
+std      0 days 00:00:00.187866555
+min       -1 days +23:59:57.376000
+25%       -1 days +23:59:59.915000
+50%       -1 days +23:59:59.996000
+75%         0 days 00:00:00.005000
+max         0 days 00:00:00.251000
+
+
+Filename: spot_BATUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1423
+file in data_200 length 1423
+                actual_time_diff
+count                       1423
+mean   0 days 00:00:00.002208713
+std    0 days 00:00:00.006482531
+min     -1 days +23:59:59.956000
+25%       0 days 00:00:00.002000
+50%       0 days 00:00:00.004000
+75%       0 days 00:00:00.004000
+max       0 days 00:00:00.023000
+
+
+Filename: future_TRXUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 7040
+file in data_200 length 7040
+      actual_time_diff
+count             7040
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_XRPUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4855
+file in data_200 length 4854
+                  actual_time_diff
+count                         4854
+mean   -1 days +23:59:59.926215699
+std      0 days 00:00:00.333938398
+min       -1 days +23:59:53.021000
+25%       -1 days +23:59:59.997000
+50%         0 days 00:00:00.003000
+75%         0 days 00:00:00.004000
+max         0 days 00:00:00.219000
+
+
+Filename: spot_TRXUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1833
+file in data_200 length 1833
+                actual_time_diff
+count                       1833
+mean   0 days 00:00:00.003212765
+std    0 days 00:00:00.002478842
+min     -1 days +23:59:59.992000
+25%       0 days 00:00:00.001000
+50%       0 days 00:00:00.003000
+75%       0 days 00:00:00.005000
+max       0 days 00:00:00.070000
+
+
+Filename: future_XTZUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1169
+file in data_200 length 1169
+      actual_time_diff
+count             1169
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_DASHUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1848
+file in data_200 length 1848
+                actual_time_diff
+count                       1848
+mean   0 days 00:00:00.007612554
+std    0 days 00:00:00.003812937
+min     -1 days +23:59:59.990000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.041000
+
+
+Filename: spot_IOTAUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 730
+file in data_200 length 730
+                  actual_time_diff
+count                          730
+mean   -1 days +23:59:59.997458905
+std      0 days 00:00:00.036854536
+min       -1 days +23:59:59.854000
+25%         0 days 00:00:00.008000
+50%         0 days 00:00:00.008000
+75%         0 days 00:00:00.009000
+max         0 days 00:00:00.013000
+
+
+Filename: future_XRPUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 39784
+file in data_200 length 39784
+      actual_time_diff
+count            39784
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_ZECUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2724
+file in data_200 length 2724
+      actual_time_diff
+count             2724
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: spot_ONTUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2067
+file in data_200 length 2068
+                  actual_time_diff
+count                         2067
+mean   -1 days +23:59:59.802214321
+std      0 days 00:00:01.616138803
+min       -1 days +23:59:16.680000
+25%         0 days 00:00:00.006000
+50%         0 days 00:00:00.008000
+75%         0 days 00:00:00.009000
+max         0 days 00:00:00.013000
+
+
+Filename: spot_XLMUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1165
+file in data_200 length 1165
+                actual_time_diff
+count                       1165
+mean   0 days 00:00:00.007987124
+std    0 days 00:00:00.018078599
+min       0 days 00:00:00.004000
+25%       0 days 00:00:00.007000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.008000
+max       0 days 00:00:00.608000
+
+
+Filename: future_ETHUSDT_1696331700.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 69049
+file in data_200 length 69048
+                  actual_time_diff
+count                        69048
+mean   -1 days +23:59:59.991562421
+std      0 days 00:00:00.032831026
+min       -1 days +23:59:59.232000
+25%       -1 days +23:59:59.995000
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max         0 days 00:00:00.317000
+
+
+Filename: future_BATUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5967
+file in data_200 length 5967
+      actual_time_diff
+count             5967
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_XMRUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1934
+file in data_200 length 1935
+                  actual_time_diff
+count                         1934
+mean   -1 days +23:59:59.978876939
+std      0 days 00:00:00.252299681
+min       -1 days +23:59:53.650000
+25%                0 days 00:00:00
+50%                0 days 00:00:00
+75%                0 days 00:00:00
+max                0 days 00:00:00
+
+
+Filename: spot_XRPUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 4588
+file in data_200 length 4588
+                actual_time_diff
+count                       4588
+mean   0 days 00:00:00.000617916
+std    0 days 00:00:00.001737091
+min     -1 days +23:59:59.981000
+25%              0 days 00:00:00
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.018000
+
+
+Filename: spot_LINKUSDT_1696330800.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8284
+file in data_200 length 8284
+                actual_time_diff
+count                       8284
+mean   0 days 00:00:00.008310357
+std    0 days 00:00:00.001045336
+min       0 days 00:00:00.007000
+25%       0 days 00:00:00.008000
+50%       0 days 00:00:00.008000
+75%       0 days 00:00:00.009000
+max       0 days 00:00:00.085000
+
+
+Filename: spot_XTZUSDT_1696329000.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 1082
+file in data_200 length 1078
+                actual_time_diff
+count                       1078
+mean   0 days 00:00:03.322905380
+std    0 days 00:00:09.544116712
+min       0 days 00:00:00.005000
+25%       0 days 00:00:00.011000
+50%       0 days 00:00:00.026500
+75%       0 days 00:00:01.085750
+max       0 days 00:01:33.739000
+
+
+Filename: spot_ADAUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 5417
+file in data_200 length 5416
+                actual_time_diff
+count                       5416
+mean   0 days 00:00:00.047478581
+std    0 days 00:00:00.259375985
+min     -1 days +23:59:59.992000
+25%       0 days 00:00:00.006000
+50%       0 days 00:00:00.007000
+75%       0 days 00:00:00.007000
+max       0 days 00:00:04.982000
+
+
+Filename: future_BNBUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 21377
+file in data_200 length 21377
+      actual_time_diff
+count            21377
+mean   0 days 00:00:00
+std    0 days 00:00:00
+min    0 days 00:00:00
+25%    0 days 00:00:00
+50%    0 days 00:00:00
+75%    0 days 00:00:00
+max    0 days 00:00:00
+
+
+Filename: future_ATOMUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 8751
+file in data_200 length 8750
+                actual_time_diff
+count                       8750
+mean   0 days 00:00:00.042416685
+std    0 days 00:00:00.176256754
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%       0 days 00:00:00.003000
+max       0 days 00:00:03.746000
+
+
+Filename: spot_BATUSDT_1696327200.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 928
+file in data_200 length 928
+                actual_time_diff
+count                        928
+mean   0 days 00:00:00.000570043
+std    0 days 00:00:00.001050734
+min     -1 days +23:59:59.995000
+25%              0 days 00:00:00
+50%       0 days 00:00:00.001000
+75%       0 days 00:00:00.001000
+max       0 days 00:00:00.011000
+
+
+Filename: future_ETCUSDT_1696328100.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 9658
+file in data_200 length 9657
+                actual_time_diff
+count                       9657
+mean   0 days 00:00:00.001181422
+std    0 days 00:00:00.014490555
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%              0 days 00:00:00
+75%              0 days 00:00:00
+max       0 days 00:00:00.612000
+
+
+Filename: spot_EOSUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 2494
+file in data_200 length 2495
+                  actual_time_diff
+count                         2494
+mean   -1 days +23:59:59.696103449
+std      0 days 00:00:00.872475809
+min       -1 days +23:59:49.665000
+25%       -1 days +23:59:59.872250
+50%         0 days 00:00:00.003000
+75%         0 days 00:00:00.006000
+max         0 days 00:00:00.392000
+
+
+Filename: future_LTCUSDT_1696332600.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 20177
+file in data_200 length 20176
+                actual_time_diff
+count                      20176
+mean   0 days 00:00:00.030338174
+std    0 days 00:00:00.088454167
+min              0 days 00:00:00
+25%              0 days 00:00:00
+50%       0 days 00:00:00.002000
+75%       0 days 00:00:00.015000
+max       0 days 00:00:01.868000
+
+
+Filename: spot_BTCUSDT_1696329900.json
+Check file in data_20 True
+Check file in data_200 True
+file in data_20 length 25977
+file in data_200 length 25983
+                  actual_time_diff
+count                        25977
+mean   -1 days +23:59:59.650146130
+std      0 days 00:00:00.485735016
+min       -1 days +23:59:56.382000
+25%       -1 days +23:59:59.437000
+50%       -1 days +23:59:59.889000
+75%         0 days 00:00:00.001000
+max         0 days 00:00:00.303000
+
+
