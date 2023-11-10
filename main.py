@@ -35,6 +35,6 @@ for filename in list_data_20:
     analyze(filename)
     break
 
-# Test
+# Test on staging & prod
 # On staging
 # Will publish more feature
