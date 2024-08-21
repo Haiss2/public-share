@@ -144,8 +144,7 @@ func main() {
 			return nil
 		})
 		if err := eg.Wait(); err != nil {
-			logger.Errorw("Failed to init client", "err", err)
-			return
+			logger.Errorw("Failed to place order", "err", err)
 		} else {
 			// "Symbol", "Quantity", "Price", "Side", "TimeInForce", "StartTime",
 			// "FixRespTime", "RestRespTime", "FixTransactTime", "RestTransactTime", "FixLatency", "RestLatency", "FixDiffRespTime", "RestDiffRespTime"
